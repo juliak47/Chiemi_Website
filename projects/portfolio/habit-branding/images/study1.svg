@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 535.39 485.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="10.72" y="63.85" width="276.56" height="273.6" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1062.38" y1="-2420.24" x2="1063.38" y2="-2420.24" gradientTransform="matrix(83.84, 0, 0, -83.84, -88865.15, -202643.64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.99" stop-color="#fff"/>
+      <stop offset="1" stop-color="#717171"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="92.63" y1="403.67" x2="184.5" y2="403.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.03" stop-color="#eaedfe"/>
+      <stop offset="0.09" stop-color="#cbd3fd"/>
+      <stop offset="0.16" stop-color="#afbcfd"/>
+      <stop offset="0.23" stop-color="#99a9fc"/>
+      <stop offset="0.32" stop-color="#889bfc"/>
+      <stop offset="0.43" stop-color="#7d91fb"/>
+      <stop offset="0.58" stop-color="#768cfb"/>
+      <stop offset="1" stop-color="#748afb"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-path-2" transform="translate(-0.12 -0.75)">
+      <rect x="7.12" y="63.15" width="510.27" height="414.78" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-4" transform="translate(-0.12 -0.75)">
+      <rect x="10.03" y="63.15" width="276.42" height="273.3" style="fill: none"/>
+    </clipPath>
+    <mask id="mask" x="10.6" y="63.1" width="276.56" height="273.6" maskUnits="userSpaceOnUse">
+      <g transform="translate(-0.12 -0.75)">
+        <g style="clip-path: url(#clip-path)">
+          <image width="580" height="570" transform="translate(10.72 63.85) scale(0.48 0.48)" xlink:href="data:image/png;base64,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IAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4gkiACCeIAIA4n1aEJ3P56uP9fcAwNcwm81KKeNr+Gw2G74+9pzPXPc/LYjG1IvU3vcXDwD4+sbW+M9c8+8qiEp5HUXn8/lTixEA+Li31uyPrOcfec4UPi2Iro3UbJcBwN+lHW68dTzmMxvg04Ko+qzRGADw5/U7PfXj/nZvlu89YSr/9VB1/9g9XlQASHVt7R47AnNtTf+Mtf3mQdRelPP5XE6n0+jteDwO931Rns/nMpvNhnsA4D7UyOnX87E1vu2AsW21W7pZEPW/aB9EbQD1tzaIPuMiAQBva9fousZfW9vbOBobkHzGWj95EPXx016Iw+FQjsdj2e/3w/1utyur1arsdrshguoFnM8vjzyZEAHAfakxczwey+FwKLvdruz3+3I4HMp+vx9ubSzVeGqHJ+3n7eNTDUcmD6JWH0b1YrUXqAbRcrkcgmi5XF4NIgDgfowF0Xa7LZvNpmy327LdbstutxtCqcZSPznqTRVC1WRB1FdduzXWh1C9MNvttqxWq7JYLMp8Ph+ev1wuy2KxGJ0GmRABwH2pE5+61tcQamOo3g6HQzkcDq+20Nqp0C1MFkSllHdjqA2hl5eXslwuy3w+HyqwFuNisRgmRv3PBwBur53YtOtzu/a3QbTZbMrLy8vopKhGUe2Ez4iiyYKonw71Z4fqdGiz2ZT1el1eXl4upkDtmaLFYnF1QgQA3I8aMO16v9vtymazKZvNpvz8+bM8Pz8Pn/fbZ+3B678iiKo+imoFtiO0zWZTVqvVEDyn06ns9/uyWq2GLTRbZgBw/9ogqut+u2X2/Pxcnp+fL6ZFdUrUDk/6KJo6jCYJovofPRZD7ehstVqV9Xo9bJPVmtztdmW9Xg9fr0H01r8FANzOe1tm5/Prc0S73W4Iojopenl5uYiisQPWt1jrJwmiUl6/MVM7Olsul2W73Zb1el2en58vtsnqc9br9XCYuh6yNg0CgPt07X2I2iMwNYjqdOjapOhwONxkKtSaNIhq1bUHqvf7fZnP5xeR006G6uSoTofqYWpBBABfR53y1LW/DjzquaGfP3+Wl5eX4TxRe47o2mRoykCaLIhKKRcxNJ/PhxiazWZDEJ3P5+EC1KlRfR+i1WpV5vP58D2CCAC+hjrhabfB2q2zenymnxK1h6vb4crUJg2iUn5tmR0Oh1dRUx9vt8naQ9T14/p9Y0F0i4sEAPx/+m2zeiymnQT1b9hYJ0nt93zpQ9WlvH7Z/Ww2G6Kof167ZVbPDc3n84t3q74WRKZGAHB/+mMzY9tn7Rs0tjHUnj/+KyZEY1F0PB5LKb9Cpj1oXW91m6y+ssyECAC+nrr+9y+w6t+Gpw5F2snQrUKomiyI6i9xOp2Gz9vH6kWaz+flcDgM22Ttu1W354dKGZ8G3fJiAQAf0w9F6trfb6H1H7fPveUaP1kQVe0eYv3F6t8pq0FUD13XqVCdBrV/zPXa1lj/B18BgM/XDkTawKnrfzsJarfV+oC6VRj9dhC17ztQnc/n4fH+fQnGqq+dBLUToRo7b73C7BYXCQD4b+raX42dD2oHJ30rtA0xpVkpZdJ/oT//03/e/kmOsQPUJkAA8PW0AdNGTRtA/WP9AGXsZ03ltydEHzH2i/SP9eeEvHoMAP4uYxOfW0+CrrnJhOitx8e+LoYA4Gtrw2bseE3/vP6+tsCtAmnyIHqP+AGAv08fNm+5VfS85dODaEx78e7hIgEAf7e7DCIAINdbW2xTufsg+sioDQC4L7cOmt9190EEAPw9bn1Y+qMEEQAQz7seAgDx/gdbOc8D15ReiwAAAABJRU5ErkJggg=="/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clip-path-5" transform="translate(-0.12 -0.75)">
+      <rect x="20.74" y="71.53" width="256.06" height="263.04" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-6" transform="translate(-0.12 -0.75)">
+      <rect x="26.99" y="66.15" width="510.27" height="414.78" style="fill: none"/>
+    </clipPath>
+    <filter id="luminosity-noclip" x="8.12" y="62.15" width="510.27" height="414.78" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-2" x="7.99" y="61.4" width="510.27" height="414.78" maskUnits="userSpaceOnUse">
+      <g style="filter: url(#luminosity-noclip)">
+        <g transform="translate(-0.12 -0.75)">
+          <rect x="8.12" y="62.15" width="510.27" height="414.78" style="fill: url(#linear-gradient)"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clip-path-7" transform="translate(-0.12 -0.75)">
+      <rect x="196" y="358.16" width="101.17" height="88.68" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-8" transform="translate(-0.12 -0.75)">
+      <path d="M92.63,403.67a45.94,45.94,0,1,0,45.93-46.24,46.09,46.09,0,0,0-45.93,46.24" style="fill: url(#linear-gradient-2)"/>
+    </clipPath>
+    <clipPath id="clip-path-9" transform="translate(-0.12 -0.75)">
+      <rect width="536.12" height="486.74" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g style="clip-path: url(#clip-path-2)">
+          <g style="clip-path: url(#clip-path-2)">
+            <g style="opacity: 0.270004004240036">
+              <g style="clip-path: url(#clip-path-4)">
+                <g style="mask: url(#mask)">
+                  <g style="clip-path: url(#clip-path-5)">
+                    <rect x="20.61" y="70.78" width="256.06" height="263.04" style="fill: #1d1d1b;opacity: 0.5899959802627563;mix-blend-mode: multiply"/>
+                  </g>
+                </g>
+                <rect x="18.84" y="69.4" width="245.33" height="252" style="fill: #e9e9e9"/>
+              </g>
+            </g>
+          </g>
+          <text transform="translate(37.43 120.4) scale(0.99 1)" style="font-size: 33.599998474121094px;fill: #1d1d1b;font-family: Montserrat-Bold, Montserrat;font-weight: 700">HEADING!</text>
+          <text transform="translate(37.43 150.64) scale(0.99 1)" style="font-size: 16.799999237060547px;fill: #1d1d1b;font-family: BigShouldersText-SemiBold, Big Shoulders Text;font-weight: 600"><tspan style="letter-spacing: -0.010006120820126738em">S</tspan><tspan x="7.46" y="0">U</tspan><tspan x="15.05" y="0" style="letter-spacing: -0.004973802746846624em">B</tspan><tspan x="22.16" y="0">HE</tspan><tspan x="36" y="0" style="letter-spacing: -0.009011360270757413em">AD</tspan><tspan x="50.38" y="0">I</tspan><tspan x="53.84" y="0" style="letter-spacing: -0.004008299860694043em">N</tspan><tspan x="62.71" y="0" style="letter-spacing: -0.008982102607540668em">G</tspan><tspan x="69.95" y="0">S</tspan></text>
+          <text transform="translate(37.43 172.48) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">Epudani<tspan x="30.93" y="0" style="letter-spacing: -0.009028078349748827em">m</tspan><tspan x="38.39" y="0">us qui consers peribus unducimpo</tspan><tspan x="173.81" y="0" style="letter-spacing: -0.009981042175555649em">r</tspan><tspan x="177.6" y="0" style="letter-spacing: -0.023974563617666336em">r</tspan><tspan x="181.24" y="0">o om</tspan></text>
+          <text transform="translate(238.42 172.48) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">-</text>
+          <text transform="translate(37.43 184.24) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">nim et labo<tspan x="44.65" y="0" style="letter-spacing: -0.020012240341943238em">r</tspan><tspan x="48.33" y="0" style="letter-spacing: 0.00005015599083193793em">e nis eos nam</tspan><tspan x="102.52" y="0" style="letter-spacing: -0.10001104571888425em">,</tspan><tspan x="103.69" y="0" xml:space="preserve" style="letter-spacing: 0.00005015599083193793em"> ut moluptatur aut doles </tspan></text>
+          <text transform="translate(37.43 196) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">maxime pe con po<tspan x="73.71" y="0" style="letter-spacing: -0.019962084351111298em">r</tspan><tspan x="77.39" y="0">es incillor adit eat </tspan><tspan x="150.55" y="0" style="letter-spacing: -0.019059276516136415em">v</tspan><tspan x="154.66" y="0">ol- orion </tspan></text>
+          <text transform="translate(37.43 207.76) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">e<tspan x="4.69" y="0" style="letter-spacing: -0.00897792235891689em">r</tspan><tspan x="8.49" y="0" style="letter-spacing: -0.023974563617666336em">r</tspan><tspan x="12.13" y="0" style="letter-spacing: -0.009028078349748827em">o</tspan><tspan x="17.45" y="0">vidit fuga</tspan><tspan x="52.74" y="0" style="letter-spacing: -0.10001104571888425em">.</tspan><tspan x="53.91" y="0" style="letter-spacing: -0.12398560933655058em"> </tspan><tspan x="55.41" y="0" style="letter-spacing: -0.1490134487616876em">T</tspan><tspan x="59.87" y="0">emporiatus aut quoditi aecuptia quunt </tspan></text>
+          <text transform="translate(37.43 219.52) scale(0.99 1)" style="font-size: 9.800000190734863px;fill: #1d1d1b;font-family: GillSans, Gill Sans">acearum.</text>
+          <text transform="translate(37.43 259.68) scale(0.99 1)" style="font-size: 12.600000381469727px;fill: #25408f;font-family: Roboto-Medium, Roboto;font-weight: 500">Montser<tspan x="47.1" y="0" style="letter-spacing: -0.015018932647836087em">r</tspan><tspan x="51.34" y="0" xml:space="preserve">at   </tspan></text>
+          <text transform="translate(37.43 279.67) scale(0.99 1)" style="font-size: 12.600000381469727px;fill: #25408f;font-family: Roboto-Medium, Roboto;font-weight: 500"><tspan xml:space="preserve">Big Shoulders  </tspan></text>
+          <text transform="translate(37.43 299.67) scale(0.99 1)" style="font-size: 12.600000381469727px;fill: #25408f;font-family: Roboto-Medium, Roboto;font-weight: 500"><tspan xml:space="preserve">Gill Sans  </tspan></text>
+          <text transform="translate(92.63 299.67) scale(0.99 1)" style="font-size: 12.600000381469727px;fill: #25408f;font-family: Arial-Black, Arial Black;font-weight: 800"> </text>
+          <line x1="37.43" y1="237.66" x2="244.72" y2="237.66" style="fill: none;stroke: #3a4149"/>
+          <g style="clip-path: url(#clip-path-6)">
+            <g style="mask: url(#mask-2)">
+              <g style="clip-path: url(#clip-path-7)">
+                <ellipse cx="246.8" cy="405.08" rx="36.76" ry="37" style="fill: #cfd5fe"/>
+              </g>
+            </g>
+          </g>
+          <text transform="translate(115.85 470.86) scale(0.99 1)" style="font-size: 12px;fill: #1d1d1b;font-family: OpenSans, Open Sans">#575757</text>
+          <text transform="translate(222.98 467.92) scale(0.99 1)" style="font-size: 12px;fill: #1d1d1b;font-family: OpenSans, Open Sans">#a9c452</text>
+          <text transform="translate(316.6 467.92) scale(0.99 1)" style="font-size: 12px;fill: #1d1d1b;font-family: OpenSans, Open Sans">#<tspan x="7.75" y="0" style="letter-spacing: 0.00499720865048146em">e</tspan><tspan x="14.54" y="0">cce79</tspan></text>
+          <g>
+            <path d="M92.63,403.67a45.94,45.94,0,1,0,45.93-46.24,46.09,46.09,0,0,0-45.93,46.24" transform="translate(-0.12 -0.75)" style="fill: url(#linear-gradient-2)"/>
+            <g style="clip-path: url(#clip-path-8)">
+              <rect x="92.51" y="356.68" width="91.87" height="92.48" style="fill: url(#linear-gradient-2)"/>
+            </g>
+          </g>
+          <text transform="translate(408.64 467.92) scale(0.99 1)" style="font-size: 12px;fill: #1d1d1b;font-family: OpenSans, Open Sans">#d7b686</text>
+        </g>
+        <circle cx="333" cy="413.08" r="37" style="fill: #e27604"/>
+        <circle cx="424" cy="415.08" r="37" style="fill: #261779"/>
+        <g>
+          <rect x="327" y="181.08" width="170" height="36" rx="6.77" style="fill: #e27604"/>
+          <text transform="translate(376.54 203.48) scale(1.05 1)" style="font-size: 12px;fill: #fff;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">My Button</text>
+        </g>
+        <g>
+          <g>
+            <image width="177" height="43" transform="translate(324 111.08)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAAArCAYAAAA31GngAAAACXBIWXMAAAsSAAALEgHS3X78AAADFklEQVR4Xu2dS0scQRRGz217NC/yEqNDjOBGkq0iWYf88KyD6DbiRlCDD0hIVJR5OJXF7Rq7dXwEnZku+M6mHbtmd7jcKmq+ayEE7sLMLP5560IhHo8AEO4hqN22ppA3A3JgCmggkcXwCUAHaAFdoHebzDdKbGYZLu0L4C0wB7zEhZbIYlgEXNxj4AD4DZwCnRBCb9AXBkpsZhPAU+AdsAgsAR+BWbwiCzFMWsAhsAlsAdvAEXAeQri4uviaxCWB54Fl4DPwCVjAK3EDIYZLB6/EO8AP4DuwAewxQOS8/KEk8AdgFfgCrABNvK1QTyxGQQDeANNcb2N3zawicl/iogeOFXgV+Fo854Fn+AZPAotREfdkU7inWfH/AOyZ2VnskXPon0I08B54Ga/Aq3hFjgILMUoMmACe4x4C9PBNXxv4aWbtEEKIlTjD24VFvAdeoVqBhRgXGe7hPJenFofAX+APcJEVVTjHj9GW8E1cEwks6kMUuYn7uYT7mlvRB4P3HXP4MdoCXpUlsKgTsVtYwD1tAk8Ai5u1Br4DnOXyGE2bOFEnoqevgffADCWJywsmkcCivhgu7gxeiV8B+dWWQfKKOmN4oZ3G24ppYFJ9r0geSSxSow38AnaLZ1sSi5SIN9xO8AtBJ0BXEovUiHeN28UzSGKRKv3rl5JYJI8kFskjiUXySGKRPJJYJI8kFskjiUXySGKRPJJYJI8kFskjiUXyXJX4zgRCIWpAxdNyIEXlZhBC1I+BnmalF/H3/MdIZFE/bvQ0VuIWHqO5iYe4neJpK0LUhR7u5Q7u6QHuLVkRXtzFc2C38BTCfeAMiSzqQQ/3cR/3cwv3tVuOsYqWb+MxmjGFUFlsYtxEgfeAddzPbUrdQg4+F8HMOvjvljaophAqFVOMg0BV4DXgG+7nEZ4cH6AU7RpC6JnZefGFKGtMIVQ+sRglcRN3ircQ67jAa1wGbfdb3UrIdgjhohB5l+rsBCXFi1HyX0nxmtkh6sjDZnb0X2h6khgPjzM9qf9Sc+zEeIg98cPm2FUWaaKoGD0B7jdR9B87/CMkUxF9JAAAAABJRU5ErkJggg==" style="opacity: 0.25;mix-blend-mode: multiply"/>
+            <rect x="326" y="113.08" width="171" height="37" rx="12" style="fill: #758bfd"/>
+          </g>
+          <text transform="translate(373.95 135.4) scale(1.05 1)" style="font-size: 12px;fill: #fff;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">My Button</text>
+        </g>
+        <rect y="4.08" width="534" height="50" style="fill: #e9e9e9"/>
+        <text transform="translate(49.11 36.05) scale(1.05 1)" style="font-size: 18px;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">Option 1</text>
+        <g style="clip-path: url(#clip-path-9)">
+          <line x1="2.99" y1="15.48" x2="2.99" y2="476.26" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.994999885559082"/>
+          <line x1="15.31" y1="482.75" x2="526.73" y2="482.75" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.895999908447266"/>
+          <line x1="532.89" y1="469.77" x2="532.89" y2="8.99" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.994999885559082"/>
+          <line x1="520.56" y1="2.5" x2="9.15" y2="2.5" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.895999908447266"/>
+          <path d="M3.11,3.25h0m529.9,0h0m0,480.25h0m-529.9,0h0" transform="translate(-0.12 -0.75)" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

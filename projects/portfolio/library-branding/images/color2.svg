@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 381 162">
+  <defs>
+    <clipPath id="clip-path" transform="translate(0 -0.82)">
+      <rect x="16.63" width="345.53" height="133.68" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color">
+      <rect width="381" height="162" style="fill: #fff"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M62.87,133.18A46.24,46.24,0,1,0,16.63,86.94a46.24,46.24,0,0,0,46.24,46.24" transform="translate(0 -0.82)" style="fill: #315293"/>
+        <path d="M168.71,133.68c23.15,0,41.92-18.06,41.92-40.34S191.86,53,168.71,53s-41.92,18.06-41.92,40.34,18.77,40.34,41.92,40.34" transform="translate(0 -0.82)" style="fill: gray"/>
+        <path d="M256.39,133.68a35.9,35.9,0,1,0-35.9-35.9,35.9,35.9,0,0,0,35.9,35.9" transform="translate(0 -0.82)" style="fill: #7ddfe3"/>
+      </g>
+      <text transform="translate(136.18 19.39)" style="font-size: 11.199999809265137px;fill: #1d1d1b;font-family: AvenirNext-Medium, Avenir Next;font-weight: 500">2nd O<tspan x="32.6" y="0" style="letter-spacing: -0.005013602205916851em">P</tspan><tspan x="39.21" y="0">TION</tspan></text>
+      <line x1="27.03" y1="32.24" x2="312.63" y2="32.24" style="fill: none;stroke: #3a4149;stroke-width: 2.4000000953674316px"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M337.39,133.68c13.68,0,24.77-12.42,24.77-27.74s-11.09-27.75-24.77-27.75-24.76,12.42-24.76,27.75,11.09,27.74,24.76,27.74" transform="translate(0 -0.82)" style="fill: #e9e9e9"/>
+      </g>
+    </g>
+  </g>
+</svg>

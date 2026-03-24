@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 406.73 173.29">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="4.05" y="4.09" width="399.6" height="167.34" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color1">
+      <rect width="406.73" height="173.29" style="fill: #fff"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M179.85,135.92c23.15,0,41.92-18.06,41.92-40.34S203,55.24,179.85,55.24,137.93,73.3,137.93,95.58s18.76,40.34,41.92,40.34" style="fill: #2b5da9"/>
+        <path d="M267.53,135.92a35.9,35.9,0,1,0-35.9-35.9,35.9,35.9,0,0,0,35.9,35.9" style="fill: #5ec2c2"/>
+      </g>
+      <text transform="translate(179.83 24.29)" style="font-size: 11.199999809265137px;fill: #1d1d1b;font-family: AvenirNext-Medium, Avenir Next;font-weight: 500">1st O<tspan x="27.63" y="0" style="letter-spacing: -0.005013602205916851em">P</tspan><tspan x="34.24" y="0">TION</tspan></text>
+      <line x1="68.17" y1="35.29" x2="353.77" y2="35.29" style="fill: none;stroke: #3a4149;stroke-width: 2.4000000953674316px"/>
+      <g style="clip-path: url(#clip-path)">
+        <line x1="6.55" y1="17.07" x2="6.55" y2="163.86" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="16.67" y1="168.93" x2="396.09" y2="168.93" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <line x1="401.15" y1="158.8" x2="401.15" y2="12.01" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="391.04" y1="6.95" x2="11.61" y2="6.95" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <path d="M6.55,7h0m394.6,0h0m0,162h0m-394.6,0h0" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px"/>
+        <path d="M348.53,135.92c13.68,0,24.76-12.42,24.76-27.74s-11.08-27.75-24.76-27.75-24.76,12.42-24.76,27.75,11.08,27.74,24.76,27.74" style="fill: #d1514b"/>
+        <path d="M75.71,141.82A46.24,46.24,0,1,0,29.47,95.58a46.24,46.24,0,0,0,46.24,46.24" style="fill: #1d1d1b"/>
+        <circle cx="75.71" cy="95.58" r="46.24" style="fill: none;stroke: #606060"/>
+      </g>
+      <text transform="translate(52.29 158.62)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#000</text>
+      <text transform="translate(156.91 155.68)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#a9c52</text>
+      <text transform="translate(244.34 156.44)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#77<tspan x="20.02" y="0" style="letter-spacing: -0.012003580729166666em">b</tspan><tspan x="26.99" y="0" style="letter-spacing: -0.007975260416666666em">f</tspan><tspan x="30.44" y="0">c1</tspan></text>
+      <text transform="translate(327.62 155.68)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#c25950</text>
+    </g>
+  </g>
+</svg>

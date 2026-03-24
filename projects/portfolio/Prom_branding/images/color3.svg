@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 394 193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="11.77" y="50.98" width="373.01" height="121.6" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color3">
+      <rect width="394" height="193" style="fill: #fff"/>
+      <rect id="gray_box" data-name="gray box" x="7.43" y="1.84" width="381" height="38" style="fill: #e9e9e9"/>
+      <text transform="translate(155.81 25.5)" style="font-size: 18px;font-family: HelveticaNeue, Helvetica Neue">Opriton 1</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M67,150.46a46.24,46.24,0,1,0-46.24-46.24A46.24,46.24,0,0,0,67,150.46" style="fill: #f7cac9"/>
+      </g>
+      <text transform="translate(43.59 167.26)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#F7C<tspan x="28.9" y="0" style="letter-spacing: -0.027994791666666668em">A</tspan><tspan x="36.34" y="0" style="letter-spacing: 0.000040690104166666664em">C9</tspan></text>
+      <text transform="translate(318.92 164.32)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 034F84 </text>
+      <text transform="translate(141.67 166.95)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># F7786B</text>
+      <text transform="translate(230.11 163.55)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 91A8D0</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M341.76,132.47a22.32,22.32,0,1,0,0-44.62c-12.62,0-22.84,10-22.84,22.31s10.22,22.31,22.84,22.31" style="fill: #034f84"/>
+        <path d="M165.6,149.91c21.59,0,39.1-17.85,39.1-39.87s-17.51-39.86-39.1-39.86S126.5,88,126.5,110s17.5,39.87,39.1,39.87" style="fill: #f7786b"/>
+        <path d="M257.42,136.7c15.09,0,27.32-11.93,27.32-26.66s-12.23-26.65-27.32-26.65S230.11,95.32,230.11,110s12.23,26.66,27.31,26.66" style="fill: #91a8d0"/>
+      </g>
+    </g>
+  </g>
+</svg>

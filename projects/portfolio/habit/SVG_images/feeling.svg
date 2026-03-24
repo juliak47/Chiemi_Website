@@ -1,0 +1,32 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 601 321">
+  <title>Artboard 1</title>
+  <g>
+    <ellipse cx="92.51" cy="77.51" rx="26.65" ry="27" style="fill: #27187e;opacity: 0.7000000000000001"/>
+    <path d="M63.26,116.21l-59.8,45.9s-2.6,36.9,23.4,18S62,156.71,62,156.71l1.3,130.5s31.2,54.9,59.8,0l3.9-129.6,31.2,28.8s46.8.9,27.3-13.5-58.5-55.8-58.5-55.8Z" style="fill: #27187e;stroke: #27187e;stroke-miterlimit: 10;opacity: 0.7000000000000001"/>
+    <path d="M110.71,127.46c-9.55-1.34-14.07,2.43-15.88,4.71-2-2.29-6.49-5.7-15.64-4.42C46,132.4,82.9,155.7,90.89,161.05c2,1.36,3.21,2.23,3.89,2.8-.81.74-.35.7,0,.6v.2s1.52.58.31-.53l0-.53-.25.21.13-3,.12,2.83A48,48,0,0,1,99,160.76C107,155.4,143.93,132.11,110.71,127.46Z" style="fill: #ff8600"/>
+  </g>
+  <g>
+    <ellipse cx="499.51" cy="77.51" rx="26.65" ry="27" style="fill: #27187e;opacity: 0.7000000000000001"/>
+    <path d="M470.26,116.21l-59.8,45.9s-2.6,36.9,23.4,18,35.1-23.4,35.1-23.4l1.3,130.5s31.2,54.9,59.8,0l3.9-129.6,31.2,28.8s46.8.9,27.3-13.5-58.5-55.8-58.5-55.8Z" style="fill: #27187e;stroke: #27187e;stroke-miterlimit: 10;opacity: 0.7000000000000001"/>
+    <path d="M517.71,127.46c-9.55-1.34-14.07,2.43-15.88,4.71-2-2.29-6.49-5.7-15.64-4.42-33.22,4.65,3.71,27.95,11.7,33.3,2,1.36,3.21,2.23,3.89,2.8-.81.74-.35.7,0,.6v.2s1.52.58.31-.53l0-.53-.25.21.13-3,.12,2.83a48,48,0,0,1,3.93-2.83C514,155.4,550.93,132.11,517.71,127.46Z" style="fill: #ff8600"/>
+  </g>
+  <g>
+    <polyline points="186 33.5 248.26 33.5 261.43 33.5 397 33.5" style="fill: none;stroke: #758bfd;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <polygon points="199.94 45.37 188.07 33.5 199.94 21.63 189.87 21.63 178 33.5 189.87 45.37 199.94 45.37" style="fill: #758bfd"/>
+    <polygon points="383.06 45.37 394.93 33.5 383.06 21.63 393.13 21.63 405 33.5 393.13 45.37 383.06 45.37" style="fill: #758bfd"/>
+  </g>
+  <g>
+    <polyline points="185 69.5 247.26 69.5 260.43 69.5 396 69.5" style="fill: none;stroke: #aeb8fe;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <polygon points="198.94 81.37 187.07 69.5 198.94 57.63 188.87 57.63 177 69.5 188.87 81.37 198.94 81.37" style="fill: #aeb8fe"/>
+    <polygon points="382.06 81.37 393.93 69.5 382.06 57.63 392.13 57.63 404 69.5 392.13 81.37 382.06 81.37" style="fill: #aeb8fe"/>
+  </g>
+  <g>
+    <polyline points="186 139.5 248.26 139.5 261.43 139.5 397 139.5" style="fill: none;stroke: #ff8600;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <polygon points="199.94 151.37 188.07 139.5 199.94 127.63 189.87 127.63 178 139.5 189.87 151.37 199.94 151.37" style="fill: #ff8600"/>
+    <polygon points="383.06 151.37 394.93 139.5 383.06 127.63 393.13 127.63 405 139.5 393.13 151.37 383.06 151.37" style="fill: #ff8600"/>
+  </g>
+  <text transform="translate(227.03 24.24)" style="font-size: 28px;fill: #4d4d4d;font-family: NunitoSans-Bold, Nunito Sans;font-weight: 700">Em<tspan x="40.94" y="0" style="letter-spacing: -0.0029820033482142855em">o</tspan><tspan x="56.95" y="0" style="letter-spacing: -0.00001743861607142857em">tion</tspan></text>
+  <text transform="translate(208.4 96.8)" style="font-size: 28px;fill: #4d4d4d;font-family: NunitoSans-Bold, Nunito Sans;font-weight: 700">In<tspan x="24.25" y="0" style="letter-spacing: -0.004987444196428571em">f</tspan><tspan x="34.13" y="0">ormation</tspan></text>
+  <text transform="translate(229.31 224.35)" style="font-size: 36px;fill: #27187e;font-family: NunitoSans-Bold, Nunito Sans;font-weight: 700"><tspan style="letter-spacing: -0.009996202256944444em">F</tspan><tspan x="20.02" y="0">eeling</tspan></text>
+  <rect x="215" y="186" width="151" height="55" rx="12" style="fill: none;stroke: #ff8600;stroke-miterlimit: 10;stroke-width: 4px"/>
+</svg>

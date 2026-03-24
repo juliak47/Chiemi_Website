@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 382.43 167.05">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-14.46 -0.34)">
+      <rect width="418.32" height="176.98" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color2">
+      <rect width="382.43" height="167.05" style="fill: #fff"/>
+      <text transform="translate(166.48 19.86)" style="font-size: 11.199999809265137px;fill: #1d1d1b;font-family: AvenirNext-Medium, Avenir Next;font-weight: 500">2nd O<tspan x="32.6" y="0" style="letter-spacing: -0.005013602205916851em">P</tspan><tspan x="39.21" y="0">TION</tspan></text>
+      <line x1="54.81" y1="31.46" x2="340.41" y2="31.46" style="fill: none;stroke: #3a4149;stroke-width: 2.4000000953674316px"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M182.07,129.74c23.16,0,41.92-18.06,41.92-40.34s-18.76-40.34-41.92-40.34S140.15,67.12,140.15,89.4s18.77,40.34,41.92,40.34" transform="translate(-14.46 -0.34)" style="fill: #a1c639"/>
+        <path d="M272.73,129.56a35.91,35.91,0,1,0-35.91-35.91,35.91,35.91,0,0,0,35.91,35.91" transform="translate(-14.46 -0.34)" style="fill: #f2ce6a"/>
+        <path d="M350.35,127.77c13.67,0,24.76-12.42,24.76-27.74S364,72.29,350.35,72.29,325.58,84.71,325.58,100s11.09,27.74,24.77,27.74" transform="translate(-14.46 -0.34)" style="fill: #2b5da9"/>
+        <path d="M81.37,139.89A46.24,46.24,0,1,0,35.13,93.65a46.24,46.24,0,0,0,46.24,46.24" transform="translate(-14.46 -0.34)" style="fill: #1d1d1b"/>
+        <circle cx="66.91" cy="93.31" r="46.24" style="fill: none;stroke: #606060"/>
+      </g>
+      <text transform="translate(37.13 157)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#000</text>
+      <text transform="translate(142.85 154.06)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#a9c452</text>
+      <text transform="translate(314.98 153.48)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#365<tspan x="26.69" y="0" style="letter-spacing: 0.0059814453125em">e</tspan><tspan x="33.2" y="0">a3</tspan></text>
+      <text transform="translate(230.02 154.06)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#<tspan x="6.67" y="0" style="letter-spacing: 0.0050048828125em">e</tspan><tspan x="13.18" y="0">cce79</tspan></text>
+    </g>
+  </g>
+</svg>

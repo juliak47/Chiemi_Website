@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 394 193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="9.95" y="52.5" width="373.01" height="121.6" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color1">
+      <text transform="translate(170.1 15.48) scale(0.98 1)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># <tspan x="10.01" y="0" style="letter-spacing: -0.003987786915780028em">d</tspan><tspan x="17.08" y="0" style="letter-spacing: -0.01096641401839508em">b</tspan><tspan x="24.06" y="0">f3e7</tspan></text>
+    </g>
+    <g id="color2">
+      <rect width="394" height="193" style="fill: #fff"/>
+      <rect id="gray_box" data-name="gray box" x="7.43" y="1.84" width="381" height="38" style="fill: #e9e9e9"/>
+      <text transform="translate(155.81 25.5)" style="font-size: 18px;font-family: HelveticaNeue, Helvetica Neue">Opriton 1</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M65.19,152A46.24,46.24,0,1,0,19,105.74,46.24,46.24,0,0,0,65.19,152" style="fill: #98ddde"/>
+      </g>
+      <text transform="translate(41.78 168.78)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 98ddde</text>
+      <text transform="translate(317.11 165.84)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 034F84 </text>
+      <text transform="translate(134.76 168.32)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># F7786B</text>
+      <text transform="translate(228.29 165.07)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 91A8D0</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M339.94,134c12.62,0,22.84-10,22.84-22.31s-10.22-22.31-22.84-22.31-22.84,10-22.84,22.31S327.33,134,339.94,134" style="fill: #034f84"/>
+        <path d="M163.78,151.43c21.6,0,39.1-17.85,39.1-39.87s-17.5-39.86-39.1-39.86-39.1,17.85-39.1,39.86,17.51,39.87,39.1,39.87" style="fill: #f7786b"/>
+        <path d="M255.61,138.22c15.09,0,27.32-11.93,27.32-26.66S270.7,84.91,255.61,84.91s-27.32,11.93-27.32,26.65,12.23,26.66,27.32,26.66" style="fill: #91a8d0"/>
+      </g>
+    </g>
+  </g>
+</svg>

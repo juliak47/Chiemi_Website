@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 399 193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="16.55" y="63.11" width="367.74" height="124.43" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="399" height="193" style="fill: #fff"/>
+      <rect id="gray_box" data-name="gray box" x="6" y="13" width="381" height="38" style="fill: #e9e9e9"/>
+      <text transform="translate(156.68 37.81)" style="font-size: 18px;font-family: HelveticaNeue, Helvetica Neue">Option 2</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M71.79,162.59a46.24,46.24,0,1,0-46.24-46.24,46.24,46.24,0,0,0,46.24,46.24" style="fill: #4079a3"/>
+      </g>
+      <text transform="translate(48.37 182.22)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#4079a3</text>
+      <text transform="translate(323.7 179.28)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># <tspan x="10.01" y="0" style="letter-spacing: -0.007975260416666666em">f</tspan><tspan x="13.46" y="0">e8c00</tspan></text>
+      <text transform="translate(147.03 179.22)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 89c137</text>
+      <text transform="translate(234.89 178.51)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 001635</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M346.54,144.59c12.61,0,22.84-10,22.84-22.31S359.15,100,346.54,100s-22.84,10-22.84,22.31,10.23,22.31,22.84,22.31" style="fill: #fe8c00"/>
+        <path d="M174.63,156.36c21.6,0,39.1-17.85,39.1-39.86s-17.5-39.86-39.1-39.86-39.1,17.84-39.1,39.86,17.51,39.86,39.1,39.86" style="fill: #89c137"/>
+        <path d="M262.21,148.83c15.08,0,27.32-11.94,27.32-26.66s-12.24-26.66-27.32-26.66-27.32,11.93-27.32,26.66,12.23,26.66,27.32,26.66" style="fill: #001635"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1031 @@
+# Translation of Themes - Full Frame in Japanese
+# This file is distributed under the same license as the Themes - Full Frame package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 01:54:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Full Frame\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Full Frame"
+msgstr "Full Frame"
+
+#: inc/fullframe-metabox.php:122
+msgid "Single Page/Post Image Layout"
+msgstr "個別ページ/投稿の画像レイアウト"
+
+#: inc/fullframe-default-options.php:214 inc/fullframe-default-options.php:259
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/fullframe-default-options.php:213 inc/fullframe-default-options.php:258
+msgid "Demo"
+msgstr "デモ"
+
+#: inc/fullframe-default-options.php:556
+msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+
+#: inc/fullframe-default-options.php:556
+msgid "Y"
+msgstr "Y年"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:30
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Full Frame Pro"
+msgstr "Full Frame Pro"
+
+#: inc/customizer-includes/fullframe-customizer.php:206
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "保存した後にカスタマイザーページをリフレッシュして、リセットエフェクトを表示する"
+
+#: inc/fullframe-core.php:640
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">投稿日</span>"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:404
+msgid "Check to disable Scroll Up"
+msgstr "チェックして上スクロールを無効化"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:394
+msgid "Scrollup Options"
+msgstr "上スクロール設定"
+
+#: inc/fullframe-default-options.php:450
+msgid "Link"
+msgstr "リンク"
+
+#: inc/fullframe-default-options.php:446
+msgid "Cloud"
+msgstr "クラウド"
+
+#: inc/fullframe-default-options.php:442
+msgid "Cart"
+msgstr "お買い物カゴ"
+
+#: inc/fullframe-default-options.php:438
+msgid "Handset"
+msgstr "ハンドセット"
+
+#: inc/fullframe-default-options.php:434
+msgid "Phone"
+msgstr "電話"
+
+#: inc/fullframe-default-options.php:430
+msgid "Website"
+msgstr "サイト"
+
+#: sidebar.php:40
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "デフォルトでは、以下のように検索ウィジェットとアーカイブウィジェットがロードされます。このエリアにウィジェットを追加するには、デフォルトのウィジェットを置き換える<a href=\"%s\">ウィジェットパネル</a>を訪れてください。"
+
+#: sidebar.php:39
+msgid "This is the Primary Sidebar Widget Area if you are using a two column site layout option."
+msgstr "これは、2列サイトレイアウト設定を使用している場合、メインサイドバーウィジェットエリアです。"
+
+#: sidebar.php:36
+msgid "Primary Sidebar Widget Area"
+msgstr "メインサイドバーウィジェットエリア"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "エラー 404 - ページが見つかりません"
+
+#: inc/fullframe-widgets.php:106
+msgid "Title (optional):"
+msgstr "タイトル (オプション):"
+
+#: inc/fullframe-widgets.php:65
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "ソーシャルアイコンをウィジェットとして追加するには、このウィジェットを使用します。"
+
+#: inc/fullframe-widgets.php:44
+msgid "Footer %d widget area."
+msgstr "フッター %d ウィジェットエリア。"
+
+#: inc/fullframe-widgets.php:38
+msgid "Footer Area %d"
+msgstr "フッターエリア %d"
+
+#: inc/fullframe-widgets.php:31
+msgid "This is the primary sidebar if you are using two column site layout option."
+msgstr "2列サイトレイアウト設定を使用している場合は、これがメインサイドバーです。"
+
+#: inc/fullframe-widgets.php:25
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/fullframe-metabox.php:185
+msgid "Fullframe Options"
+msgstr "Full Frame 設定"
+
+#: inc/fullframe-metabox.php:105
+msgid "Header Featured Image Options"
+msgstr "ヘッダーアイキャッチ画像設定"
+
+#: inc/fullframe-menus.php:67
+msgid "Header Toggle"
+msgstr "ヘッダー切り替え"
+
+#: inc/fullframe-menus.php:39
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/fullframe-menus.php:27
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/fullframe-featured-content.php:315
+#: inc/fullframe-featured-content.php:332 inc/fullframe-featured-slider.php:185
+#: inc/fullframe-featured-slider.php:201 inc/fullframe-featured-slider.php:211
+msgid "Permalink to:"
+msgstr "パーマリンク先: "
+
+#: inc/fullframe-featured-content.php:58
+msgid "Here you can showcase the x number of Featured Content. You can edit this Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> Featured Content Options\"."
+msgstr "ここでは、x個の注目コンテンツを紹介できます。このヘッドライン、サブヘッドライン、注目コンテンツは、「外観 > カスタマイズ > 注目のコンテンツオプション」から編集できます。"
+
+#: inc/fullframe-default-options.php:558
+msgid "by"
+msgstr "by"
+
+#: inc/fullframe-default-options.php:541
+msgid "Disable Image"
+msgstr "画像を無効化"
+
+#: inc/fullframe-default-options.php:531
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/fullframe-default-options.php:509
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/fullframe-default-options.php:504
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/fullframe-default-options.php:468 inc/fullframe-default-options.php:499
+#: inc/fullframe-default-options.php:526
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/fullframe-default-options.php:426
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/fullframe-default-options.php:418
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/fullframe-default-options.php:422
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/fullframe-default-options.php:414
+msgid "DropBox"
+msgstr "DropBox"
+
+#: inc/fullframe-default-options.php:410
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/fullframe-default-options.php:406
+msgid "Stumbleupon"
+msgstr "StumbleUpon"
+
+#: inc/fullframe-default-options.php:402
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/fullframe-default-options.php:398
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/fullframe-default-options.php:394
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/fullframe-default-options.php:390
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/fullframe-default-options.php:386
+msgid "Path"
+msgstr "パス"
+
+#: inc/fullframe-default-options.php:382
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/fullframe-default-options.php:378
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: inc/fullframe-default-options.php:374
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/fullframe-default-options.php:370
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/fullframe-default-options.php:366
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/fullframe-default-options.php:362
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/fullframe-default-options.php:358
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/fullframe-default-options.php:354
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/fullframe-default-options.php:350
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/fullframe-default-options.php:346
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/fullframe-default-options.php:342
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/fullframe-default-options.php:338
+msgid "Feed"
+msgstr "フィード"
+
+#: inc/fullframe-default-options.php:334 inc/fullframe-social-icons.php:37
+msgid "Email"
+msgstr "メール"
+
+#: inc/fullframe-default-options.php:330
+msgid "Googleplus"
+msgstr "Google+"
+
+#: inc/fullframe-default-options.php:326
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/fullframe-default-options.php:322
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/fullframe-default-options.php:306 inc/fullframe-default-options.php:536
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: inc/fullframe-default-options.php:305
+msgid "Featured"
+msgstr "注目"
+
+#: inc/fullframe-default-options.php:291
+msgid "Infinite Scroll (Scroll)"
+msgstr "無限スクロール (スクロール)"
+
+#: inc/fullframe-default-options.php:290
+msgid "Infinite Scroll (Click)"
+msgstr "無限スクロール (クリック)"
+
+#: inc/fullframe-default-options.php:289
+msgid "Numeric"
+msgstr "数字ベース"
+
+#: inc/fullframe-default-options.php:288
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "デフォルト (過去の投稿/新しい投稿)"
+
+#: inc/fullframe-default-options.php:274
+msgid "False"
+msgstr "偽"
+
+#: inc/fullframe-default-options.php:273
+msgid "Wait"
+msgstr "待機"
+
+#: inc/fullframe-default-options.php:272
+msgid "True"
+msgstr "真"
+
+#: inc/fullframe-default-options.php:244
+msgid "Hide Content"
+msgstr "コンテンツを非表示"
+
+#: inc/fullframe-default-options.php:243
+msgid "Show Full Content"
+msgstr "全文を表示"
+
+#: inc/fullframe-default-options.php:229
+msgid "4 columns"
+msgstr "4カラム"
+
+#: inc/fullframe-default-options.php:228
+msgid "3 columns"
+msgstr "3カラム"
+
+#: inc/fullframe-default-options.php:183
+msgid "Slider Image"
+msgstr "スライダー画像"
+
+#: inc/fullframe-default-options.php:182
+msgid "Large Image"
+msgstr "大サイズ画像"
+
+#: inc/fullframe-default-options.php:181
+msgid "Full Image"
+msgstr "フルサイズ画像"
+
+#: inc/fullframe-default-options.php:167 inc/fullframe-default-options.php:199
+#: inc/fullframe-default-options.php:307
+msgid "Disabled"
+msgstr "無効"
+
+#: inc/fullframe-default-options.php:166
+msgid "Pages and Posts"
+msgstr "固定ページと投稿"
+
+#: inc/fullframe-default-options.php:165
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "サイト全体、ページ/投稿アイキャッチ画像"
+
+#: inc/fullframe-default-options.php:164 inc/fullframe-default-options.php:198
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/fullframe-default-options.php:163
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "ホームページ以外、ページ/投稿アイキャッチ画像"
+
+#: inc/fullframe-default-options.php:162
+msgid "Excluding Homepage"
+msgstr "ホームページを除く"
+
+#: inc/fullframe-default-options.php:161 inc/fullframe-default-options.php:197
+msgid "Homepage / Frontpage"
+msgstr "ホームページ / フロントページ"
+
+#: inc/fullframe-default-options.php:147
+msgid "Show Full Content (No Featured Image)"
+msgstr "全文を表示 (アイキャッチ画像なし)"
+
+#: inc/fullframe-default-options.php:146 inc/fullframe-default-options.php:242
+msgid "Show Excerpt"
+msgstr "抜粋を表示"
+
+#: inc/fullframe-default-options.php:133 inc/fullframe-default-options.php:483
+msgid "No Sidebar ( Content Width )"
+msgstr "サイドバーなし (コンテンツ幅)"
+
+#: inc/fullframe-default-options.php:132 inc/fullframe-default-options.php:478
+msgid "Content, Primary Sidebar"
+msgstr "コンテンツ、メインサイドバー"
+
+#: inc/fullframe-default-options.php:131 inc/fullframe-default-options.php:473
+msgid "Primary Sidebar, Content"
+msgstr "メインサイドバー、コンテンツ"
+
+#: inc/fullframe-default-options.php:117
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/fullframe-default-options.php:116
+msgid "Light"
+msgstr "ライト"
+
+#: inc/fullframe-default-options.php:73
+msgid "Search..."
+msgstr "検索…"
+
+#: inc/fullframe-default-options.php:68
+msgid "Reviews"
+msgstr "レビュー"
+
+#: inc/fullframe-default-options.php:67
+msgid "This is promotion headline. You can edit this from Appearance -> Customize -> Theme Options -> Promotion Headline Options"
+msgstr "これはプロモーション見出しです。これは、「外観 > カスタマイズ > テーマ設定 > プロモーションヘッドラインオプション」から編集できます"
+
+#: inc/fullframe-default-options.php:56
+msgid "Read More ..."
+msgstr "続きを読む…"
+
+#: inc/fullframe-core.php:1355
+msgid "Previous post:"
+msgstr "前の投稿:"
+
+#: inc/fullframe-core.php:1354
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: inc/fullframe-core.php:1352
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: inc/fullframe-core.php:1351
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: inc/fullframe-core.php:1310
+msgid "By"
+msgstr "By"
+
+#: inc/fullframe-core.php:1309
+msgid "Posted on"
+msgstr "投稿日:"
+
+#: inc/fullframe-core.php:1293
+msgid "Scroll Up"
+msgstr "上にスクロール"
+
+#: inc/fullframe-core.php:687
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">タグ</span>"
+
+#: inc/fullframe-core.php:679
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">カテゴリー</span>"
+
+#: inc/fullframe-core.php:676 inc/fullframe-core.php:684
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "、"
+
+#: inc/fullframe-core.php:655
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/fullframe-core.php:655
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/fullframe-core.php:655
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: inc/fullframe-core.php:647
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">投稿者</span>"
+
+#: inc/fullframe-core.php:537
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/fullframe-core.php:530
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/fullframe-core.php:524
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">より:</span>"
+
+#: inc/fullframe-core.php:514
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/fullframe-core.php:482
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/fullframe-core.php:79 inc/fullframe-menus.php:26
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/fullframe-breadcrumb.php:223
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/fullframe-breadcrumb.php:62
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/fullframe-breadcrumb.php:61
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sユーザーの投稿をすべて表示: %2$s"
+
+#: inc/fullframe-breadcrumb.php:60
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$s以下のタグがついた投稿: %2$s"
+
+#: inc/fullframe-breadcrumb.php:59
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s検索結果: %2$s"
+
+#: inc/fullframe-breadcrumb.php:58
+msgid "%1$s Archive for %2$s"
+msgstr "%2$s の %1$s アーカイブ"
+
+#: inc/fullframe-breadcrumb.php:57
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/customizer-includes/fullframe-customizer.php:161
+#: inc/customizer-includes/fullframe-customizer.php:172
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: inc/customizer-includes/fullframe-customizer.php:151
+msgid "Check to reset all settings to default"
+msgstr "チェックしてすべての設定をリセット"
+
+#: inc/customizer-includes/fullframe-customizer.php:140
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+#: inc/customizer-includes/fullframe-customizer.php:138
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "警告: すべての設定をデフォルトにリセットします。全効果を表示するには保存後ページを再読み込みしてください。"
+
+#: inc/customizer-includes/fullframe-customizer.php:113
+msgid "Color Scheme"
+msgstr "配色"
+
+#: inc/customizer-includes/fullframe-customizer.php:95
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "チェックしてサイトタイトルとキャッチフレーズをロゴの前に移動"
+
+#: inc/customizer-includes/fullframe-customizer.php:80
+msgid "Logo Alt Text"
+msgstr "ロゴの alt テキスト"
+
+#: inc/customizer-includes/fullframe-customizer.php:66
+msgid "Check to disable logo"
+msgstr "チェックしてロゴを無効化"
+
+#: inc/customizer-includes/fullframe-customizer.php:53
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:426
+msgid "Default Display Text in Search"
+msgstr "検索フィールドのデフォルトテキスト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:416
+msgid "Search Options"
+msgstr "検索設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:413
+msgid "Change default placeholder text in Search."
+msgstr "検索のデフォルト仮テキストを変更。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:368
+msgid "Promotion Headline Link"
+msgstr "プロモーション見出しリンク"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:354
+msgid "Promotion Headline Button Text "
+msgstr "プロモーション見出しボタンテキスト "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:353
+msgid "Appropriate Words: 3"
+msgstr "適切な単語数: 3"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:340
+msgid "Promotion Subheadline Text"
+msgstr "プロモーション小見出しテキスト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:339
+msgid "Appropriate Words: 15"
+msgstr "適切な単語数: 15"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:326
+msgid "Promotion Headline Text"
+msgstr "プロモーション見出しテキスト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:325
+msgid "Appropriate Words: 10"
+msgstr "適切な単語数: 10"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:311
+msgid "Enable Promotion Headline on"
+msgstr "プロモーション見出しを有効化"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:300
+msgid "Promotion Headline Options"
+msgstr "プロモーション見出し設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:297
+msgid "To disable the fields, simply leave them empty."
+msgstr "フィールドを無効にするには、空のままにしておきます。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:288
+msgid "Pagination type"
+msgstr "ページ送りのタイプ"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:277
+msgid "Pagination Options"
+msgstr "ページ送り設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:266
+msgid "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</a>."
+msgstr "数値オプションには、<a target=\"_blank\" href=\"%s\">WP-PageNavi プラグイン</a>が必要です。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:255
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "無限スクロールオプションを使うには <a target=\"_blank\" href=\"%s\">Jetpack プラグイン</a>の無限スクロールモジュールを有効化する必要があります。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:248
+msgid "Numeric Option requires <a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "数値オプションには <a target=\"_blank\" href=\"%1$s\">WP-PageNavi プラグイン</a>が必要です。<br/>無限スクロールオプションでは、無限スクロールモジュールを有効化した<a target=\"_blank\" href=\"%2$s\">Jetpack プラグイン</a>が必要です。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:237
+msgid "Single Page/Post Image Layout "
+msgstr "個別ページ/投稿の画像レイアウト "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:224
+msgid "Archive Content Layout"
+msgstr "アーカイブコンテンツレイアウト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:210
+msgid "Default Layout"
+msgstr "デフォルトレイアウト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:199
+#: inc/fullframe-metabox.php:88
+msgid "Layout Options"
+msgstr "レイアウト設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:188
+msgid "Select/Add Logo Icon"
+msgstr "ロゴアイコンを選択・追加"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:187
+msgid "Logo Icon is displayed in Primary Menu"
+msgstr "ロゴアイコンはメインメニューに表示されます"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:178
+msgid "Icon Options"
+msgstr "アイコン設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:175
+msgid "Remove Icon images to disable."
+msgstr "無効にするにはアイコン画像を削除してください。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:164
+msgid "Select Categories"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:154
+msgid "Homepage / Frontpage Options"
+msgstr "ホームページ / フロントページ設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:151
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "ここで選択したカテゴリーに投稿された記事のみがフロントページに表示されます"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:142
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:128
+msgid "Excerpt Length (words)"
+msgstr "抜粋の長さ (単語数)"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:121
+msgid "Excerpt length. Default is 40 words"
+msgstr "抜粋の長さ。デフォルトは40文字"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:111
+msgid "Excerpt Options"
+msgstr "抜粋設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:98
+msgid "Enter Custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:88
+msgid "Custom CSS Options"
+msgstr "カスタム CSS 設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:85
+msgid "Custom/Inline CSS"
+msgstr "カスタム/インライン CSS"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:70
+msgid "Separator between Breadcrumbs"
+msgstr "パンくずリストの区切り記号"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:54
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "チェックしてホームページでパンくずリストを有効化"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:41
+msgid "Check to enable Breadcrumb"
+msgstr "チェックしてパンくずリストを有効化"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:30
+msgid "Breadcrumb Options"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:28
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "パンくずリストは訪問者がサイトのどこにあるのかを一目で把握するのに最適な方法です。ホームページやサイト全体で有効/無効にすることができます。"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "基本テーマ設定"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:40
+msgid "Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?{action}. More Information in readme file"
+msgstr "Skype のリンクは、次のような形式になります:<br>callto://+{number}<br> skype:{username}?{action}。詳細は readme ファイルを参照してください"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:21
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:27
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "注: 対応するソーシャルネットワーキングウェブサイトの URL を入力してください"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:79
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:382
+msgid "Check to Open Link in New Window/Tab"
+msgstr "チェックしてリンクを新しいウィンドウまたはタブで開く"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:66
+msgid "Featured Header Image Link URL"
+msgstr "ヘッダーアイキャッチ画像リンク URL"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:53
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "ヘッダーアイキャッチ画像 alt/title タグ "
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:40
+msgid "Page/Post Featured Header Image Size"
+msgstr "固定ページ/投稿の注目ヘッダーの画像サイズ"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "ヘッダーアイキャッチ画像設定を有効化: "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:138
+msgid "No of Slides"
+msgstr "スライドの数"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:131
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "スライドの数が変更された場合、保存してページを再読み込みしてください (スライド数の上限は20枚)"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:116
+msgid "Select Slider Type"
+msgstr "スライダーの種類を選択"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:100
+msgid "Image Loader"
+msgstr "画像ローダー"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:83
+msgid "Transition Length"
+msgstr "遷移の長さ"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:64
+msgid "Transition Delay"
+msgstr "遷移遅延"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:60
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:79
+msgid "seconds(s)"
+msgstr "秒"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "スライダーを有効化"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:21
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "注目スライダー"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:19
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "注目スライダーオプション"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:224
+msgid "Select/Add Background Image"
+msgstr "背景画像を選択 / 追加"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:213
+msgid "Featured Content Background Settings"
+msgstr "おすすめコンテンツの背景設定"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:202
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:155
+msgid "Featured Page"
+msgstr "注目ページ"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:186
+msgid "Display Content"
+msgstr "コンテンツを表示"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:170
+msgid "Check to Enable Title"
+msgstr "タイトルを有効にする"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:155
+msgid "No of Featured Content"
+msgstr "注目コンテンツ数"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:148
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "注目コンテンツの数を変更した場合は、ページを保存して更新してください (注目コンテンツの最大数は20件)"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:132
+msgid "Sub-headline for Featured Content"
+msgstr "注目コンテンツの小見出し"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:131
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "小見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:115
+msgid "Headline for Featured Content"
+msgstr "注目コンテンツの見出し"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:114
+msgid "Leave field empty if you want to remove Headline"
+msgstr "見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:99
+msgid "Select Content Type"
+msgstr "コンテンツタイプを選択"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:83
+msgid "Check to Enable Sliding Effect"
+msgstr "クリックしてスライディング効果を有効化"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:68
+msgid "Check to Move above Footer"
+msgstr "チェックしてフッターの上に移動"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:53
+msgid "Select Featured Content Layout"
+msgstr "注目コンテンツのレイアウトを選択"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:37
+msgid "Enable Featured Content on"
+msgstr "注目コンテンツを有効化"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:26
+msgid "Featured Content Options"
+msgstr "注目コンテンツ設定"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:20
+#: inc/fullframe-featured-content.php:57
+msgid "Featured Content"
+msgstr "注目コンテンツ"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:18
+msgid "Options for Featured Content"
+msgstr "注目コンテンツ設定"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "レビュー"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "今すぐ寄付"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "サポート"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr "テーマの説明"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:37
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "複数のオプションを選択するには Ctrl (Windows) / Command (Mac) キーを押しながら選択してください。"
+
+#: content-page.php:35 inc/fullframe-core.php:514 inc/fullframe-core.php:533
+#: inc/fullframe-core.php:659
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:28 content-single.php:31 content.php:46
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: content-none.php:30 no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:25 no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。別のキーワードでもう一度お試しください。"
+
+#: content-none.php:21 no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:52 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:51 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:50 comments.php:75
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: sidebar.php:53
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://catchthemes.com/themes/full-frame/"
+msgstr "https://catchthemes.com/themes/full-frame/"

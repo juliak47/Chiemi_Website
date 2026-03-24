@@ -1,0 +1,126 @@
+# Translation of Themes - Elegant Pin in Japanese
+# This file is distributed under the same license as the Themes - Elegant Pin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-10 16:07:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Elegant Pin\n"
+
+#. Theme Name of the theme
+msgid "Elegant Pin"
+msgstr "Elegant Pin"
+
+#: functions.php:271
+msgid "Blossom Email Newsletter"
+msgstr "Blossom Email Newsletter"
+
+#: functions.php:87
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: functions.php:253
+msgid "Enable Blossom Email Newsletter"
+msgstr "Blossom Email Newsletter を有効化"
+
+#: functions.php:225
+msgid "Enable Instagram Section"
+msgstr "Instagram セクションを有効化"
+
+#: functions.php:272
+msgid "Enter Blossom Email Newsletter Shortcode"
+msgstr "Blossom Email Newsletter のショートコードを入力"
+
+#: functions.php:111
+msgid "Information Links"
+msgstr "重要なリンク"
+
+#: functions.php:207
+msgid "Instagram Settings"
+msgstr "Instagram 設定"
+
+#: functions.php:127
+msgid "More WordPress Themes"
+msgstr "WordPress のテーマをもっと見る"
+
+#: functions.php:235
+msgid "Newsletter Settings"
+msgstr "メールマガジン設定"
+
+#: functions.php:97
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: functions.php:199
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: functions.php:126
+msgid "Rate this theme"
+msgstr "このテーマを評価する"
+
+#: functions.php:125
+msgid "Support ticket"
+msgstr "サポートチケット"
+
+#: functions.php:124
+msgid "Theme info"
+msgstr "テーマ情報"
+
+#: functions.php:122
+msgid "View demo"
+msgstr "デモを表示"
+
+#: functions.php:123
+msgid "View documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: functions.php:87
+msgid "Y"
+msgstr "Y年"
+
+#: functions.php:122 functions.php:123 functions.php:124 functions.php:125
+#: functions.php:126 functions.php:127
+msgid "here"
+msgstr "こちら"
+
+#: functions.php:97
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: functions.php:226
+msgid "You must configure the BlossomThemes Feed for Instagram to display your Instagram posts on Homepage"
+msgstr "ホームページに Instagram の投稿を表示するには、BlossomThemes Feed for Instagram を設定する必要があります"
+
+#: functions.php:131
+msgid "About Elegant Pin"
+msgstr "Elegant Pin について"
+
+#: functions.php:94
+msgid "Developed By "
+msgstr "Developed By "
+
+#: functions.php:92
+msgid "Elegant Pin "
+msgstr "Elegant Pin "
+
+#: functions.php:121
+msgid "Need help?"
+msgstr "お困りですか ?"
+
+#. Author of the theme
+#: functions.php:95
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/elegant-pin/"
+msgstr "https://rarathemes.com/wordpress-themes/elegant-pin/"

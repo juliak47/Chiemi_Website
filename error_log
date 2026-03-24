@@ -1,0 +1,138 @@
+[10-Dec-2025 12:38:30 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 12:38:30 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 12:38:30 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[10-Dec-2025 19:30:27 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 19:30:27 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 19:30:27 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[10-Dec-2025 22:01:31 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 22:01:31 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[10-Dec-2025 22:01:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[11-Dec-2025 06:12:52 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 06:12:52 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 06:12:52 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[11-Dec-2025 18:18:02 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 18:18:02 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 18:18:02 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[11-Dec-2025 23:44:44 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 23:44:44 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[11-Dec-2025 23:44:44 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[12-Dec-2025 07:42:52 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Dec-2025 07:42:52 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Dec-2025 07:42:52 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[12-Dec-2025 09:26:59 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Dec-2025 09:26:59 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Dec-2025 09:26:59 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[13-Dec-2025 23:58:51 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[13-Dec-2025 23:58:51 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[13-Dec-2025 23:58:51 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[14-Dec-2025 14:08:18 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[14-Dec-2025 14:08:18 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[14-Dec-2025 14:08:18 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[17-Dec-2025 06:18:49 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[17-Dec-2025 06:18:49 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[17-Dec-2025 06:18:49 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[24-Dec-2025 07:52:48 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[24-Dec-2025 07:52:48 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[24-Dec-2025 07:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[05-Jan-2026 21:46:20 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[05-Jan-2026 21:46:20 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[05-Jan-2026 21:46:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home1/chiemikc/public_html/xmlrpc.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 33
+[16-Jan-2026 22:36:56 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[16-Jan-2026 22:36:56 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[16-Jan-2026 22:36:56 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[27-Jan-2026 01:43:53 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Jan-2026 01:43:53 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Jan-2026 01:43:53 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[24-Feb-2026 04:41:39 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[24-Feb-2026 04:41:39 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[24-Feb-2026 04:41:39 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[25-Feb-2026 05:08:28 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[25-Feb-2026 05:08:28 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[25-Feb-2026 05:08:28 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[25-Feb-2026 05:08:32 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[25-Feb-2026 05:08:32 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[25-Feb-2026 05:08:32 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[27-Feb-2026 02:23:27 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Feb-2026 02:23:27 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Feb-2026 02:23:27 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[27-Feb-2026 15:29:56 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Feb-2026 15:29:56 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[27-Feb-2026 15:29:56 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[09-Mar-2026 22:05:09 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[09-Mar-2026 22:05:09 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[09-Mar-2026 22:05:09 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[12-Mar-2026 21:52:28 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Mar-2026 21:52:28 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[12-Mar-2026 21:52:28 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63
+[15-Mar-2026 12:07:58 America/Boise] PHP Warning:  include(/home1/chiemikc/public_html/wp-load.php): Failed to open stream: No such file or directory in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[15-Mar-2026 12:07:58 America/Boise] PHP Warning:  include(): Failed opening '/home1/chiemikc/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chiemikc/public_html/xmlrpc.php on line 30
+[15-Mar-2026 12:07:58 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/chiemikc/public_html/xmlrpc.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/chiemikc/public_html/xmlrpc.php on line 63

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410.65 92.71">
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <text transform="translate(73.64 68.43)" style="font-size: 79.19999694824219px;fill: #4d4d4d;font-family: ArialRoundedMTBold, Arial Rounded MT Bold"><tspan style="letter-spacing: -0.012996173164913801em">F</tspan><tspan x="46.81" y="0">i</tspan><tspan x="68.27" y="0" style="letter-spacing: -0.024000997215848873em">r</tspan><tspan x="101.06" y="0" style="letter-spacing: 0.000006165167535537856em">st</tspan></text>
+        <text transform="translate(245.57 68.43)" style="font-size: 79.19999694824219px;fill: #231f20;font-family: ArialRoundedMTBold, Arial Rounded MT Bold"> </text>
+        <text transform="translate(265.37 68.43)" style="font-size: 79.19999694824219px;fill: #9c3;font-family: ArialNarrow, Arial Narrow">Gear</text>
+        <path d="M58.72,8.18S13.93,29.71,13.64,61.29s46.8,24.12,52.26-7.75c0,0-10.91,21-26.13,16.94S34,31.43,58.72,8.18Z" style="fill: #8cc63f;stroke: #22b573;stroke-miterlimit: 10"/>
+        <path d="M8.19,8.18H49S2.16,26.27,3.31,81.68C3.31,81.68-6.74,30.86,8.19,8.18Z" style="fill: #4d4d4d"/>
+      </g>
+    </g>
+  </g>
+</svg>

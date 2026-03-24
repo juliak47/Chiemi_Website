@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
+
+/*-------------- General ------------------*/
+
+* {box-sizing:border-box;}
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: #2a2929;
+	font: 14px/18px 'Open Sans',  "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.clearfix::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+	
+.container {
+	width: 85%;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+/*--------------- Form ----------------*/
+.form-text{
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+.email {
+	text-align: center;
+}
+
+
+
+.gray{color: #454545;}
+
+.lgray {background-color:#f1f2f6;}
+
+
+
+.form_box {
+	width: 100%;
+	
+	}
+	
+fieldset {
+  border: 10px  #f1f2f6;
+  margin:0 auto;
+}
+
+form {
+/*  width: 40%;*/
+  padding: 0 20%;
+  padding-top: 60px;
+  margin: 0 auto;
+  padding-bottom:30px; 
+}
+
+
+form label, form p{
+  color: #fff;
+  margin-right: 8px;
+  font-size: 20px;
+}
+
+form h3 {
+  color: #ffbb3d;
+  font-size: 20px;
+}
+
+.set {
+  display: inline-block;
+/*  margin-right: 20px;*/
+}
+
+
+input[type=text]  {
+  width: 175px;
+  height: 30px;
+  margin-bottom: 15px;
+  margin-right: 20px;
+  padding-left: 5px;
+  border: 2px solid #808080;
+  border-radius: 5px;
+  color: #575757;
+  font-size: 1.2em;
+}
+
+
+input[type=submit] {
+  margin: 30px auto;
+  width: 25%;
+  display: block;
+  background-color:#f83f3f;
+  color: #fff;
+  font-size: 22px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+input[type=submit]:hover {
+  background: #8cc63f;
+  color: #fff;
+}
+
+form h3 {
+	color: #191919;
+	text-align: center;
+}
+
+input.Mail_Address, input.Email, input.Verify_Email {
+  width: 390px;
+}
+
+/*
+input.First_Name, input.zip, input.city, input.phone, input.Last_Name {
+  width: 178px;
+}
+*/
+
+select {
+  background: #8cc63f;
+  color: #fff;
+  font-size: 16px;
+  width:190px;
+  border: none;
+/*  margin-right: 5px;*/
+}
+
+.address5 {
+	text-align: center;
+    margin-top: 30px;
+}

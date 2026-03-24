@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 394 193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="15.25" y="45.12" width="370.68" height="132.72" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="color1">
+      <rect width="394" height="193" style="fill: #fff"/>
+      <rect id="gray_box" data-name="gray box" x="8.5" y="12.5" width="381" height="38" style="fill: #e9e9e9"/>
+      <g id="blue_dot">
+        <line x1="6.2" y1="19.93" x2="6.2" y2="178.4" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="16.07" y1="183.87" x2="386.07" y2="183.87" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <line x1="391" y1="172.94" x2="391" y2="14.46" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="381.13" y1="9" x2="11.13" y2="9" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <path d="M6.2,9h0M391,9h0m0,174.87h0m-384.8,0h0" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px"/>
+      </g>
+      <text transform="translate(157.18 40.31)" style="font-size: 18px;font-family: HelveticaNeue, Helvetica Neue">Opriton 1</text>
+      <text transform="translate(146.88 170.67) scale(0.98 1)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># <tspan x="10.01" y="0" style="letter-spacing: -0.003987786915780028em">d</tspan><tspan x="17.08" y="0" style="letter-spacing: -0.01096641401839508em">b</tspan><tspan x="24.06" y="0">f3e7</tspan></text>
+      <text transform="translate(246.53 172.52) scale(0.98 1)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#f7<tspan x="16.9" y="0" style="letter-spacing: 0.0030323796338743965em">c</tspan><tspan x="23.38" y="0">ac9</tspan></text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M69.36,144.6c25,0,45.29-20.7,45.29-46.24S94.37,52.12,69.36,52.12s-45.3,20.7-45.3,46.24,20.28,46.24,45.3,46.24" style="fill: #fefbdc"/>
+        <path d="M176.84,144.1c21.15,0,38.3-17.85,38.3-39.86S198,64.38,176.84,64.38s-38.31,17.84-38.31,39.86,17.15,39.86,38.31,39.86" style="fill: #dbf3e7"/>
+        <path d="M176.84,144.1c21.15,0,38.3-17.85,38.3-39.86S198,64.38,176.84,64.38s-38.31,17.84-38.31,39.86S155.68,144.1,176.84,144.1Z" style="fill: none;stroke: gray"/>
+        <path d="M266.79,130.9A26.66,26.66,0,1,0,240,104.24a26.71,26.71,0,0,0,26.76,26.66" style="fill: #f7cac9"/>
+        <path d="M347.94,130.9a26.66,26.66,0,1,0-26.76-26.66,26.71,26.71,0,0,0,26.76,26.66" style="fill: #98ddde"/>
+      </g>
+      <text transform="translate(318.77 170.67) scale(0.98 1)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># 98ddde</text>
+      <text/>      <text transform="translate(46.91 169.88) scale(0.98 1)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue"># <tspan x="10.01" y="0" style="letter-spacing: -0.003987786915780028em">fefbdc</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Mars Cinema Homepage</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+		<!-------------------Java Script for  date picker ---------------->
+	
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+		<link rel="stylesheet" href="/resources/demos/style.css">
+		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>	
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.css" >
+
+</head>
+
+<!--------------------  PC Header	------------------------->
+	
+<body>
+  <header>
+	 <div class="pc_nav container  mobile_hide">
+		 
+		<div class="pc-logo">
+			  <a href="index.html"><img src="imgs/pc-mars cinema.png" alt="Mars Cinema"></a></div>
+			  <hr>
+		<div class="topnav">
+			  <a href="index.html" class="active">HOME</a>
+			  <a href="#">MOVIE</a>
+			  <a href="#dining">DINING</a>
+			  <a href="#contact">CONTACT</a>
+			  <a href="#about">ABOUT</a>
+			  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+			  <i class="fa fa-bars"></i></a>
+		</div>
+	 </div>
+<!--------------------- Mobile Header ------------------------>
+	  
+	 <div class="mobile_nav container mobile-show clearfix">
+		<a class="mobile-logo" href="index.html"><img src="imgs/mars cinema.png" alt="Mars Cinema"></a>
+		
+<!------------------ Responsive Navigation ------------------->	
+		 
+	 	<div class="topnav"  id="myTopnav">
+				<a href="index.html" class="active">HOME</a>
+				<a href="#movie">MOVIE</a>
+				<a href="#dining">DINING</a>
+				<a href="#contact">CONTACT</a>
+				<a href="#about">ABOUT</a>
+				<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+					<i class="fa fa-bars"></i>
+				</a>
+	 	</div>
+	 </div>
+  </header>	
+	
+<!-------------  Individual page for Captain Marvel ------------>	
+	
+<div class="container">
+	<div class="captain_marvel clearfix">
+		<h2>CAPTAIN MARVEL</h2>
+	
+<!----------------------  Time Schedule	------------------------>
+
+		<div class="schedule">			
+			<h3> Today:&nbsp; <span id="demo"></span>
+				<input type="text" placeholder="Choose Date" id="datepicker"></h3>	
+			<h4>Dine-in Full Service</h4>
+				<a class="button" href="＃">10:30 am</a>
+				<a class="button" href="＃">12:15 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;6:45 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;8:15 pm</a>
+			<h4>Dolby Cinema</h4>
+				<a class="button" href="＃">11:15 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;2:30 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;7:15 pm</a>
+			<h4>Reald 3D</h4>
+				<a class="button" href="＃">&nbsp;&nbsp;1:30 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;4:30 pm</a>
+				<a class="button" href="＃">&nbsp;&nbsp;9:30 pm</a>
+				<a class="button mint" href="＃">Buy Ticket</a>		
+		</div>
+	
+<!-------------------------  Trailer	------------------------>	
+	
+ 		<div class="trailer_coloumns">
+			<div class="trailer">
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1BCujX3pw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>	
+
+			<div class="trailer_info">
+				<p><span>Release:</span>&nbsp; March 6th, 2019<br><span>Run Time:</span>&nbsp;  128 min<br><span>Category:</span>&nbsp;   Superhero</p><br>
+				<p><span>Director:</span>&nbsp; Anna Boden, Ryan Fleck</p><br>
+				<p><span>Starring:</span>&nbsp; Brie Larson, Gemma Chan, Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch</p><br>
+				<p><span>Captain Marvel</span> is an upcoming motion 
+				picture set in the Marvel Cinematic Universe, the twentieth movie installment in the Marvel movie timeline, as well as the eighth installment of Marvel Phase 3.</p>
+			</div>
+ 		 </div>
+	</div>
+	
+	<hr class="mint_hr container">	
+	
+	
+<!----------------------  Food Order ------------------------>	
+	
+	<div class="food_order clearfix">
+		<h3>PREFIXED MENU FOR TWO<span><a href="#dining">
+			SEE FULL MENU &#62;</a></span></h3>
+	
+		<div class="prefixed">
+			<a href="#"><img src="imgs/cheken.jpg" alt="chiken"></a>
+			<a href="#"><img src="imgs/salada.jpg" alt="cheasar salad"></a>
+			<a href="#"><img src="imgs/beer.jpg" alt="beer"></a>
+			<a href="#"><img src="imgs/chips.jpg" alt="chips"></a>
+		</div>
+		<div class="food_info">
+			<ul>
+				<li><img src="imgs/good finger.svg" alt="good finger"> &nbsp;30 Chicken Wings</li>
+				<li><img src="imgs/good finger.svg" alt="good finger"> &nbsp;Large Ceasar Salada</li>
+				<li><img src="imgs/good finger.svg" alt="good finger">&nbsp; Healthy Crisp Chips</li>
+				<li><img src="imgs/good finger.svg" alt="good finger"> &nbsp;2 Craft 
+                Beers</li>
+			</ul>
+			<p>Tatal  $38.00 for two</p>
+			<a class="button mint mint_2" href="＃">Buy Ticket</a>
+		</div>
+	</div>	
+</div>
+	
+	
+<!----------------------- footer --------------------------->		
+	
+<footer>
+	<div class="container clearfix">
+		<div class="textbox_wrapper  clearfix">
+			
+			<div class="textBox">
+				<a href="#"><h3>GET TICKET</h3></a>
+				<a href="#"><h3>DIRECTION</h3></a>
+			</div>	
+
+			<div class="textBox">
+				<a href="#"><h3>ABOUT</h3></a>
+				<a href="#"><h3>PRESS</h3></a>
+			</div>
+
+			<div class="textBox">
+				<a href="#"><h3>CONTACT</h3></a>
+				<a href="index.html#wine_dining"><h3>DINING</h3></a>
+			</div>
+
+			<div class="textBox">
+				<a href="index.html#coming_soon"><h3>COMING SOON</h3></a>
+				<a href="index.html#now_showing"><h3>NOW SHOWING</h3></a>
+			</div>
+		</div>	
+					
+		<div class="address">
+				
+<!-----------------  PC-Logo for footer ----------------->
+			
+			<div class="pc-logo2">
+				<a href="index.html"><img class="mobile_hide" src="imgs/pc-mars cinema.png" alt="Mars Cinema logo"></a>
+			</div>
+			
+<!-----------------  Mobile-Logo for footer ----------------->
+			
+			<div class="mobile-logo2">
+				<a href="index.html"><img class="mobile-show" src="imgs/mars cinema.png" alt="Mars Cinema for mobile"></a>
+			</div>	
+			
+<!----------------------- Address ------------------------>				
+			
+			<h5 class="mobile_hide">567 Pine Court Lane, Orlando, FL 32806<br>(407) 555-1234 &nbsp;info@MarsCinema.com</h5>
+		</div>		
+	</div>
+
+		<div class="white"><hr></div>	
+		s
+		<div class="copyRight">
+			<p>&copy; 1995-2019 MARS CINEMA, ALL Rights Reserved</p>
+		</div>	
+</footer>
+			
+
+<!----------------- Java script library --------------->
+
+<!----------  Navigation bar ------------>	
+	
+<script>	
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<!---------- Date Picker ------------>
+	
+<script>
+  $( function() {
+    $( "#datepicker" ).datepicker({
+      showOn: "button",
+      buttonImage: "imgs/calender.png",
+      buttonImageOnly: true,
+      buttonText: "Select date"
+    });
+  } );
+  </script>	
+	
+<!--------- display date ------------>	
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
+
+	
+</body>
+</html>

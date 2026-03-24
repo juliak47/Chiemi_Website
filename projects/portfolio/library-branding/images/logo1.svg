@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210.43 192.28">
+  <defs>
+    <clipPath id="clip-path" transform="translate(0.22 0.14)">
+      <rect x="2.61" y="3.9" width="230.3" height="186.3" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-4" transform="translate(0.22 0.14)">
+      <rect width="210" height="192" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="shape">
+      <g style="clip-path: url(#clip-path)">
+        <rect x="12.29" y="7.72" width="185.1" height="171.42" style="fill: #fff"/>
+        <rect x="12.29" y="7.72" width="185.1" height="171.42" style="fill: none;stroke: #010101;stroke-miterlimit: 10;stroke-width: 0.6060000061988831px"/>
+        <g style="clip-path: url(#clip-path)">
+          <path d="M66.31,140.67H43.2a7.35,7.35,0,0,1-7.28-7.37V35.7a7.35,7.35,0,0,1,7.28-7.37H66.31a7.35,7.35,0,0,1,7.28,7.37v97.6a7.35,7.35,0,0,1-7.28,7.37" transform="translate(0.22 0.14)" style="fill: #325394"/>
+          <path d="M66.31,140.67H43.2a7.35,7.35,0,0,1-7.28-7.37V35.7a7.35,7.35,0,0,1,7.28-7.37H66.31a7.35,7.35,0,0,1,7.28,7.37v97.6A7.35,7.35,0,0,1,66.31,140.67Z" transform="translate(0.22 0.14)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M104.06,140.36H81A7.33,7.33,0,0,1,73.68,133V35.39A7.34,7.34,0,0,1,81,28h23.11a7.35,7.35,0,0,1,7.28,7.37V133a7.34,7.34,0,0,1-7.28,7.36" transform="translate(0.22 0.14)" style="fill: #325394"/>
+          <path d="M104.06,140.36H81A7.33,7.33,0,0,1,73.68,133V35.39A7.34,7.34,0,0,1,81,28h23.11a7.35,7.35,0,0,1,7.28,7.37V133A7.34,7.34,0,0,1,104.06,140.36Z" transform="translate(0.22 0.14)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M176.54,134.08l-21.92,7.41a7.27,7.27,0,0,1-9.2-4.66L114.91,44.24a7.43,7.43,0,0,1,4.6-9.32l21.93-7.41a7.28,7.28,0,0,1,9.2,4.66l30.5,92.59a7.4,7.4,0,0,1-4.6,9.32" transform="translate(0.22 0.14)" style="fill: #325394"/>
+          <path d="M176.54,134.08l-21.92,7.41a7.27,7.27,0,0,1-9.2-4.66L114.91,44.24a7.43,7.43,0,0,1,4.6-9.32l21.93-7.41a7.28,7.28,0,0,1,9.2,4.66l30.5,92.59A7.4,7.4,0,0,1,176.54,134.08Z" transform="translate(0.22 0.14)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+        </g>
+        <text transform="translate(47.05 109.46) scale(0.99 1)" style="font-size: 36.83258819580078px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">I</text>
+        <text transform="translate(79.64 109.46) scale(0.99 1)" style="font-size: 36.83258819580078px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">R</text>
+        <text transform="matrix(0.94, -0.32, 0.31, 0.95, 142.32, 111.56)" style="font-size: 36.786495208740234px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">C</text>
+        <rect x="45.27" y="49.34" width="19.4" height="5.53" style="fill: #e0255b"/>
+        <rect x="45.27" y="59.02" width="19.4" height="5.53" style="fill: #e0255b"/>
+        <rect x="83.02" y="49.34" width="19.4" height="5.53" style="fill: #e0255b"/>
+        <rect x="83.02" y="59.02" width="19.4" height="5.53" style="fill: #e0255b"/>
+        <text transform="translate(34.31 170.79) scale(0.99 1)" style="font-size: 32.53548049926758px;fill: #010101;font-family: Baskerville-Bold, Baskerville;font-weight: 700"><tspan style="letter-spacing: 0.016991730961237326em">L</tspan><tspan x="21.22" y="0" style="letter-spacing: 0.0070064293140701325em">I</tspan><tspan x="34.67" y="0" style="letter-spacing: -0.017006929289467412em">B</tspan><tspan x="56.48" y="0" style="letter-spacing: 0.04899941021380067em">R</tspan><tspan x="82.48" y="0" style="letter-spacing: 0.036992730912031896em">A</tspan><tspan x="104.35" y="0" style="letter-spacing: -0.042008179227960615em">R</tspan><tspan x="127.38" y="0">Y</tspan></text>
+        <polygon points="148.11 53.54 130.01 60.62 128.05 55.47 146.14 48.39 148.11 53.54" style="fill: #e0255b"/>
+        <polygon points="151.55 62.57 133.46 69.65 131.49 64.5 149.59 57.41 151.55 62.57" style="fill: #e0255b"/>
+      </g>
+      <g style="clip-path: url(#clip-path-4)">
+        <line x1="2.5" y1="11.86" x2="2.5" y2="185.1" style="fill: none;stroke: #2f5ea9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.920999526977539"/>
+        <line x1="11.84" y1="189.78" x2="203.26" y2="189.78" style="fill: none;stroke: #2f5ea9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.218000411987305"/>
+        <line x1="207.93" y1="180.42" x2="207.93" y2="7.18" style="fill: none;stroke: #2f5ea9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,9.920999526977539"/>
+        <line x1="198.59" y1="2.5" x2="7.17" y2="2.5" style="fill: none;stroke: #2f5ea9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.218000411987305"/>
+        <path d="M2.28,2.36h0m205.44,0h0m0,187.28h0m-205.44,0h0" transform="translate(0.22 0.14)" style="fill: none;stroke: #2f5ea9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px"/>
+      </g>
+    </g>
+  </g>
+</svg>

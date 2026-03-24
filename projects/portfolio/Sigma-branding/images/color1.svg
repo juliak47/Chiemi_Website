@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 394 193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="13.02" y="60.22" width="374.86" height="120.76" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="394" height="193" style="fill: #fff"/>
+      <text transform="translate(46.27 175.66)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#2e7c8e</text>
+      <text transform="translate(149.24 172.72)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#10ad9f</text>
+      <text transform="translate(237.92 172.72)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#59211a</text>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M68.26,159.7A46.24,46.24,0,1,0,22,113.46,46.24,46.24,0,0,0,68.26,159.7" style="fill: #2e7c8e"/>
+        <path d="M263.82,142.28c12.61,0,22.84-10,22.84-22.31s-10.23-22.31-22.84-22.31S241,107.65,241,120s10.23,22.31,22.84,22.31" style="fill: #59211a"/>
+        <path d="M173.23,153.47c21.6,0,39.1-17.85,39.1-39.86s-17.5-39.86-39.1-39.86-39.1,17.84-39.1,39.86,17.51,39.86,39.1,39.86" style="fill: #10ad9f"/>
+        <path d="M343.67,142.28A22.57,22.57,0,0,0,366.51,120c0-12.32-10.22-22.31-22.84-22.31s-22.84,10-22.84,22.31,10.23,22.31,22.84,22.31" style="fill: #e08747"/>
+      </g>
+      <text transform="translate(320.83 172.72)" style="font-size: 12px;fill: #1d1d1b;font-family: HelveticaNeue, Helvetica Neue">#<tspan x="6.67" y="0" style="letter-spacing: -0.007975260416666666em">f</tspan><tspan x="10.13" y="0">e08747</tspan></text>
+      <rect id="gray_box" data-name="gray box" x="8.5" y="12.5" width="381" height="38" style="fill: #e9e9e9"/>
+      <g id="blue_dot">
+        <line x1="6.2" y1="19.93" x2="6.2" y2="178.4" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="16.07" y1="183.87" x2="386.07" y2="183.87" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <line x1="391" y1="172.94" x2="391" y2="14.46" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.123000144958496"/>
+        <line x1="381.13" y1="9" x2="11.13" y2="9" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px;stroke-dasharray: 0,10.118000030517578"/>
+        <path d="M6.2,9h0M391,9h0m0,174.87h0m-384.8,0h0" style="fill: none;stroke: #2b5da9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5px"/>
+      </g>
+      <text transform="translate(157.18 40.31)" style="font-size: 18px;font-family: HelveticaNeue, Helvetica Neue">Option 1</text>
+    </g>
+  </g>
+</svg>

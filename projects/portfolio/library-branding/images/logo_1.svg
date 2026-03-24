@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 185.7 176.03">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-9.15 -3.38)">
+      <rect width="230.3" height="186.3" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g style="clip-path: url(#clip-path)">
+        <rect x="0.3" y="0.3" width="185.1" height="171.42" style="fill: #fff"/>
+        <rect x="0.3" y="0.3" width="185.1" height="171.42" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.6060000061988831px"/>
+        <g style="clip-path: url(#clip-path)">
+          <path d="M63.7,136.77H40.58a7.33,7.33,0,0,1-7.27-7.36V31.8a7.33,7.33,0,0,1,7.27-7.36H63.7A7.33,7.33,0,0,1,71,31.8v97.61a7.33,7.33,0,0,1-7.27,7.36" transform="translate(-9.15 -3.38)" style="fill: #315293"/>
+          <path d="M63.7,136.77H40.58a7.33,7.33,0,0,1-7.27-7.36V31.8a7.33,7.33,0,0,1,7.27-7.36H63.7A7.33,7.33,0,0,1,71,31.8v97.61A7.33,7.33,0,0,1,63.7,136.77Z" transform="translate(-9.15 -3.38)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M101.45,136.47H78.34a7.35,7.35,0,0,1-7.28-7.37V31.49a7.34,7.34,0,0,1,7.28-7.36h23.11a7.34,7.34,0,0,1,7.28,7.36V129.1a7.35,7.35,0,0,1-7.28,7.37" transform="translate(-9.15 -3.38)" style="fill: #315293"/>
+          <path d="M101.45,136.47H78.34a7.35,7.35,0,0,1-7.28-7.37V31.49a7.34,7.34,0,0,1,7.28-7.36h23.11a7.34,7.34,0,0,1,7.28,7.36V129.1A7.35,7.35,0,0,1,101.45,136.47Z" transform="translate(-9.15 -3.38)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M173.93,130.18,152,137.59a7.28,7.28,0,0,1-9.21-4.66L112.3,40.35A7.4,7.4,0,0,1,116.9,31l21.92-7.41a7.27,7.27,0,0,1,9.2,4.65l30.51,92.59a7.41,7.41,0,0,1-4.6,9.32" transform="translate(-9.15 -3.38)" style="fill: #315293"/>
+          <path d="M173.93,130.18,152,137.59a7.28,7.28,0,0,1-9.21-4.66L112.3,40.35A7.4,7.4,0,0,1,116.9,31l21.92-7.41a7.27,7.27,0,0,1,9.2,4.65l30.51,92.59A7.41,7.41,0,0,1,173.93,130.18Z" transform="translate(-9.15 -3.38)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+        </g>
+        <text transform="translate(35.07 102.04) scale(0.99 1)" style="font-size: 36.83258819580078px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">I</text>
+        <text transform="translate(67.66 102.04) scale(0.99 1)" style="font-size: 36.83258819580078px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">R</text>
+        <text transform="matrix(0.94, -0.32, 0.31, 0.95, 130.34, 104.15)" style="font-size: 36.786495208740234px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">C</text>
+        <rect x="33.29" y="41.93" width="19.4" height="5.53" style="fill: #df225a"/>
+        <rect x="33.29" y="51.6" width="19.4" height="5.53" style="fill: #df225a"/>
+        <rect x="71.04" y="41.93" width="19.4" height="5.53" style="fill: #df225a"/>
+        <rect x="71.04" y="51.6" width="19.4" height="5.53" style="fill: #df225a"/>
+        <text transform="translate(22.32 163.37) scale(0.99 1)" style="font-size: 32.53548049926758px;font-family: Baskerville-Bold, Baskerville;font-weight: 700"><tspan style="letter-spacing: 0.016991730961237326em">L</tspan><tspan x="21.22" y="0" style="letter-spacing: 0.0070064293140701325em">I</tspan><tspan x="34.67" y="0" style="letter-spacing: -0.017006929289467412em">B</tspan><tspan x="56.48" y="0" style="letter-spacing: 0.04899941021380067em">R</tspan><tspan x="82.48" y="0" style="letter-spacing: 0.036992730912031896em">A</tspan><tspan x="104.35" y="0" style="letter-spacing: -0.042008179227960615em">R</tspan><tspan x="127.38" y="0">Y</tspan></text>
+        <polygon points="136.13 46.13 118.03 53.21 116.07 48.05 134.16 40.97 136.13 46.13" style="fill: #df225a"/>
+        <polygon points="139.57 55.15 121.48 62.23 119.51 57.08 137.6 50 139.57 55.15" style="fill: #df225a"/>
+      </g>
+    </g>
+  </g>
+</svg>

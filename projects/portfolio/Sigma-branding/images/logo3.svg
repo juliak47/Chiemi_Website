@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253 172">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect x="0.5" y="0.5" width="252" height="171" style="fill: #090909;stroke: #307d8f;stroke-miterlimit: 10"/>
+        <g>
+          <text transform="translate(90.01 89.64)" style="font-size: 12px;fill: #fff;font-family: EuphemiaUCAS, Euphemia UCAS"> <tspan x="6.04" y="0" xml:space="preserve" style="font-size: 8px">  </tspan><tspan x="14.08" y="0" style="font-size: 32px;font-family: Arial-Black, Arial Black;font-weight: 800">SIGMA</tspan></text>
+          <text transform="translate(107.73 68.99)" style="font-size: 24px;fill: #fff;font-family: MyriadPro-Regular, Myriad Pro"><tspan xml:space="preserve">  </tspan><tspan style="font-size: 16px;font-family: Oswald-Light, Oswald;font-weight: 300"><tspan x="0" y="36" style="letter-spacing: -0.02496337890625em">T</tspan><tspan x="6.22" y="36">AX &amp; </tspan><tspan x="37.46" y="36" style="letter-spacing: -0.00201416015625em">A</tspan><tspan x="45.06" y="36">CCOUNTING</tspan><tspan x="113.13" y="36" style="font-size: 30px"> </tspan></tspan></text>
+          <path d="M47.46,27.62l87.42.7-7.82,23.8H125s3.1-19.6-27.7-19.6H70L96.74,71,50.2,119.32H95.7s18.56,2.8,23.94-18.2l2,.7L112.1,134H33.7l-.36-2.8,48.89-50.4-35-51.1Z" style="fill: #307d8f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

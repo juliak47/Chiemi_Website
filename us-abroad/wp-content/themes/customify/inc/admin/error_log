@@ -1,0 +1,5 @@
+[20-Jan-2026 12:12:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/chiemikc/public_html/us-abroad/wp-content/themes/customify/inc/admin/dashboard.php:13
+Stack trace:
+#0 /home1/chiemikc/public_html/us-abroad/wp-content/themes/customify/inc/admin/dashboard.php(825): Customify_Dashboard::get_instance()
+#1 {main}
+  thrown in /home1/chiemikc/public_html/us-abroad/wp-content/themes/customify/inc/admin/dashboard.php on line 13

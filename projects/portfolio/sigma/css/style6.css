@@ -1,0 +1,1204 @@
+/*
+Project Name: Project #1 Sigma Accounting
+
+Table of Contents in CSS
+
+1. Reset
+2. Base styles
+3. Font
+
+4. Header / #Home Page 
+5. Logo
+6. Nav
+7. Slider
+8. Services
+9. Consultation
+10. Information
+11. Policy
+12. Testimony
+13. Contact
+14. Footer
+
+15. Heading / #Service Page 
+16. Services-2 / #Service Page 
+17. Qialification / #Service Page 
+18. Consultation-2 / #Service Page 
+19. 
+20. Overview / #Producat Tax Page
+21. Service List / #Producat Tax) Page
+22. Tax Planning / #Producat Tax Page
+23. Consultation-3 / #Producat Tax Page
+
+24. Application/ #Client Portal Page
+25. FAQ/ #Client Portal Page
+26. Recent Activity/ #Client Portal Page
+
+27. Media Query
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,600i,700,700i&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Arapey|Cinzel|Playfair+Display|Sorts+Mill+Goudy|Montserrat:300,400,500,600,600i,700,800|Roboto+Condensed:400,700|Roboto+Slab:400,500,600|Roboto:300,400,500,500i,700,900&display=swap');
+
+/*================ Reset ===============*/
+
+body, p, a, ul, li{
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+a:hover, button:hover {
+    background-color:#77f2e8; 
+}
+
+/*================ Base styles ===============*/
+:root{
+    --primary: #2e7c8e; 
+    --secondary: #18414b; /* text */
+    --thidary:#77f2e8; /* hightlite */
+
+/*  background: var(--secondary);*/
+}
+
+HTML{
+    background-color: #2e7c8e;
+}
+
+body{
+    box-sizing: border-box;
+    background: #fff;
+/*  overflow-x: hidden;*/
+    font-family: 'Roboto', 'Montserrat', "Helvetica", "Arial", "sans-serif";
+    color:#18414b;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.grid-four{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap:10px;
+}
+
+/*.grid-three*/
+
+.overviewWrapper{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap:50px;
+}
+
+/*.grid-seven*/
+.planningWrapper{
+    display:grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap:20px;
+}
+
+#home-main-wrapper {
+    display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-auto-rows: minmax(100px, auto);
+	grid-gap: 10px;
+	max-width: 1200px;
+	margin: 0 auto;
+    grid-template-areas:
+        "slider"
+		"services" 
+		"consultatio"
+		"information"
+		"policy "
+		"testimony"
+		"contact ;
+}
+
+/*
+grid-template-areas:
+        "slider slider slider slider"
+		"services services services services" 
+		"consultation consultation consultation  consultation"
+		"information information information information"
+		"policy policy policy policy "
+		"testimony testimony testimony testimony"
+		"contact contact contact contact" ;
+*/
+
+
+
+.nested {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 30px;
+	grid-auto-rows: minmax(150px, auto);
+
+}
+.nested div{
+    height: 150px;
+	border: 1px solid #fff;
+	padding: 20px;
+	margin: 0;
+}
+
+/*================ Font ===============*/
+
+
+
+
+h1,h2,h3,h4{
+    font-weight: normal;
+/*    line-height: 1.4rem;*/
+      line-height: 2rem;*/
+}
+p,a,li{
+/*    line-height: 1.4rem;*/
+        font-size: 1rem;
+    line-height: 2rem;*/
+}
+h1{
+    font-size: 2.6rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.6rem;
+}
+h4{
+    font-size: 1.4rem;
+}
+h6{
+    font-size: 1.2rem;
+}
+
+.dark-t {
+    color:var(--secondary)
+} 
+
+.white-t {
+    color:#fff;
+}
+
+.g-bg {
+    background-color:#2e7c8e;
+}
+/*================ Header / #Home Page ===============*/
+header {
+    width: 100%;
+/*    padding: 5px 0;*/
+
+}   
+
+.social ul {
+    display: flex;
+}
+
+.social li {
+    padding: 7px;
+}
+
+.social img {
+    width:35px;
+}
+
+.social img:hover {
+    background-color:#77f2e8;
+}
+
+header .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.call {
+    padding-top:30px;
+}
+    
+/*================ Logo / #Home Page===============*/
+
+
+.logo {
+    grid-column: 1/2;
+    grid-row: 1;
+    padding-top: 10px;
+}
+.logo img {
+    max-width: 130px;
+}
+
+.logo img:hover {
+    background-color:#77f2e8; 
+}
+
+/*================ Nav / #Home ===============*/
+nav {
+    grid-column: 2/5;
+    grid-row: 1;
+    align-self: center;   
+}
+
+nav ul{
+    display: flex;
+    justify-content: center; 
+}
+
+nav li {
+    overflow: hidden;
+}
+
+nav a {
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color:#18414b;
+}   
+
+/*================ Slider / #Home ===============*/
+
+/*
+
+#jump-to-nav { 
+	position: absolute;
+	overflow: hidden;
+	left:-3px;
+	width: 1px;
+	height: 1px;	
+}
+*/
+
+#slider {
+    grid-area: slider;
+	height: 500px;
+	width: auto;
+	position: relative;
+	overflow: hidden;
+    background-color: #2e7c8e;
+/*	background-color: #aabbcc;*/
+/*
+	top: 100px;
+	left: 100px;
+*/
+}
+
+.slide {
+	position: absolute;
+/*	height: 425px;*/
+	width: 100%;
+    object-fit: cover;
+/*	left: 801px;*/
+/*	top: 0px;*/
+}
+.caption {
+    white-space: nowrap;
+	padding: 10px;
+	font-style: arial;
+	position: absolute;
+	left: 100%;
+	font-size: 20px;
+	top: 45px;
+/*	background-color: #CCC;*/
+	z-index: 200;
+	height: 20px;
+}
+#cap_1 {
+	left:50px;
+}
+#slide_1 {
+	left: 0px;
+}
+#dotNav {
+	z-index: 400;
+	bottom: 10px;
+	left: 40%;
+	position: absolute;
+	width: 200px;
+}
+.dots {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+    
+#slider h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+    font-style: italic;
+}
+
+/*================ Services / #Home ===============*/
+
+#services {
+    grid-area: services;
+    text-align: center;
+    background-color: rgba(46, 124, 142, 0.2);
+    margin-top: 50px;
+    padding: 10px 40px 40px ;
+}	
+
+#services a h3 {
+    color:#2e7c8e;
+}
+
+#services a h3:hover {
+   border:solid 2px #2e7c8e;
+   border-radius: 5px;
+   display: inline-block;
+    padding: 5px;
+
+}
+
+
+#services .nested{ 
+    width: 100%;    
+}
+
+#services .nested div:hover {
+    background:linear-gradient(to bottom, rgba(46, 124, 142, 0.9), rgba(46, 124, 142, 1));
+    border-radius: 20px;
+}
+
+
+#services .nested p {
+    line-height:1.2rem;
+}
+
+#services .nested div {
+/*  background-color:rgba(46, 124, 142, 0.2);*/
+    padding-top: 30px;
+    color:#fff;
+    height: 150px;
+    border-radius: 20px;;
+}
+#services img {
+	margin-top: 15px;
+	height: 70px;
+}
+
+.nested .tax{  
+    background: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.7),rgba(46, 124, 142, 0.8)), url("../images/tax.jpg");   
+}
+/*
+.nested .tax a:hover {
+    background-color:rgba(46, 124, 142, 1) 
+}
+*/
+.nested .audit{  
+    background: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.7),rgba(46, 124, 142, 0.8)), url("../images/audit.jpg");    
+}
+
+.nested .accounting{  
+    background: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.7),rgba(46, 124, 142, 0.8)), url(../images/keyboard.jpg);   
+}
+
+.nested .advisery{  
+    background: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.7),rgba(46, 124, 142, 0.8)), url(../images/M&A.jpg)
+}
+
+.nested div:hover{
+    opacity:1;
+}
+
+/*================ Consultation / #Home ===============*/
+#consultation{
+    grid-area: consultation;
+    padding: 30px 70px 30px 70px;
+	text-align: center;
+}
+
+button {
+    color:#fff;
+    padding: 7px 30px;
+    background-color: #2e7c8e;
+}
+
+.button:hover{
+    background-color: #77f2e8;
+}
+
+/*================ Information / #Home ===============*/
+#information{
+    grid-area: information;
+    margin-top: 30px;
+	text-align:center;
+    padding: 20px 40px 60px;
+    background: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.8),rgba(46, 124, 142, 0.8)), url(../images/accounting-team.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+
+#information p, #information h2 {
+    color: #fff;
+}    
+
+#information img {
+    height: 50px;
+    padding: 35px 0 10px;  
+}
+
+#information .helper {
+    width:50px; 
+    height: 57px;
+    padding-top: 30px;
+} 
+
+#information .people {
+    width:75px; 
+    height: auto;
+    padding-top: 30px;
+}
+
+#information .nested p {
+    color: #2e7c8e;
+}
+
+#information .nested div {
+    background-color: #fff;
+    border-radius: 2rem;
+}
+
+#information .nested {
+    margin-top: 30px;
+}
+    
+
+/*================ Policy / #Home ===============*/
+#policy{
+    grid-area: policy;
+    text-align: center;
+    padding: 40px 80px;
+    background-color: #fff;
+}
+
+#policy h2{
+    line-height:0;
+    margin-bottom:0;
+}
+
+
+#policy img {
+    width: 80px;
+    padding-right: 15px; 
+    padding-top: 8px;
+}
+
+.policylogo {
+    display:inline-flex;
+}
+
+#policy .mostTrust {
+    line-height: 5rem;
+}
+
+/*================ Testimony / #Home ===============*/
+#testimony{
+    grid-area: testimony;
+    color: #fff;
+/*    text-align: center;*/
+/*    padding: 30px 0;*/
+    background-image: linear-gradient(to bottom, rgba(46, 124, 142, 0.6), rgba(46, 124, 142, 0.7),rgba(46, 124, 142, 0.7)), url(../images/testimony.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+.myWhite {
+    color:#fff;
+}
+
+#quote{
+    grid-column: 1/5;
+    grid-row: 3; 
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  background:rgba(99,190,211,0.3);  
+}
+
+/* Slides */
+.mySlides {
+  font-size: 1.3rem;
+  display: none;
+  padding: 80px;
+  text-align: center;
+  height: 90px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  color: #e9f5f8;
+  font-weight: bold;
+  font-size: 24px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 20px;
+    background: #2e7c8e;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px; 
+  margin: 0 2px;
+  background-color: #f1f1f1;
+/*  background-color: #bbb;*/
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: rgba(104,133,140,1);
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;
+   color:#f1f1f1;
+}
+
+/* Add a blue color to the author */
+.author {color: #f1f1f1;}
+
+
+
+/*================ Contact / #Home ===============*/
+#contact{
+    grid-area: contact;
+    text-align: center;
+    padding:50px 0;
+}
+
+button.contactButton  {
+    padding: 5px 20px;
+    margin: 0 10px;
+    border-radius: 4px;
+    font-size: 1.7rem;
+    font-weight: 800;
+    background-color: #2e7c8e;
+    color: #fff ;     
+}
+
+#contact button:hover{
+    background-color: #77f2e8; 
+}
+
+/*================ Footer / #Home ===============*/
+footer {  
+    grid-column: 1/5;
+    grid-row: 1;
+    width: 100%;
+	color:#fff;
+    background: #333;
+/*    justify-content: space-around;*/
+}
+
+
+.footerWrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1ft 1ft;
+    grid-row: 1;
+	grid-gap: 30px;
+	grid-auto-rows: minmax(150px, auto);
+}
+
+
+
+fotter li {
+	color: #fff;
+}
+
+li.footerAddress {
+    font-size: 0.9rem;
+}
+
+footer button {
+	padding: 7px 20px;
+	margin-top: 10px;
+	font-weight: 200;
+}
+
+footer button:hover{
+    background-color: #77f2e8; 
+}
+
+footer img {
+	max-width: 150px;
+	margin-top: 30px;  
+}
+
+footer img:hover {
+    background-color:#77f2e8;  
+}
+
+footer li.green a {
+    color: #77f2e8;
+}
+
+.footerWrapper {
+    justify-content: center;
+}
+
+footer ul a:hover {
+    color: #fff;
+}
+
+.leading {
+    padding-top: 20px;
+    padding-bottom:s50px;
+    font-size: 0.7rem;
+    text-align: left;
+}
+
+
+/*================== #2page =================*/
+
+/*================ heading / #2-Service Page ===============*/
+
+#heading {
+    width: 100%;
+    background: linear-gradient(
+    to bottom,
+    rgba(46, 124, 142, 0.6),
+    rgba(46, 124, 142, 0.7)), url(../images/services-title2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#heading .container{
+    display: flex;
+    justify-content: space-between;
+}
+#heading .container p{
+    align-self: center;
+}
+#heading .container h2{
+    padding-left: 5%;
+}
+
+/*================ Services / #2-Service Page ===============*/
+
+.text1 {
+    text-align: center;
+    padding: 50px 30px 0;
+}
+
+.text1 span {
+    font-size: 1.2rem;
+    color: #2e7c8e;
+}
+
+.includeS ul {
+  background-color:#fff;
+  padding: 30px 10px;
+  list-style-type: circle;
+  list-style-position: inside; 
+  border-radius: 20px;
+}
+
+.includeS li {
+ text-align: left;
+ font-size: 1rem;
+}
+
+.includeS li span {
+    color:#2e7c8e;
+    font-size: 1.6rem;
+    font-weight: 800;  
+}
+
+.includeS li.big2{
+    line-height: 1rem;
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight:500;  
+}  
+
+/*================ Qualification / #2-Service Page ===============*/
+
+/*
+.grid-three{
+    display:grid;
+    grid-template-columns: 65% 35%;
+    grid-auto-rows: minmax(100px, auto);
+    column-gap:80px;
+    margin-top: 70px;
+}
+
+#qualify {
+    grid-column: 1/2;
+    grid-row: 1; 
+}
+*/
+
+#qualify {
+    padding-right: 80px;
+}
+
+#qualify ul {
+    list-style-image: url(../images/star.png);
+    list-style-position: inside;
+    padding: 20px 0;
+}
+
+#qualify h4 {
+    color: #2e7c8e;
+    font-weight: 700;
+}
+
+
+.qualifyWrapper {
+    display:flex;
+    margin:50px auto;
+}
+
+
+/*
+=============== #3page ===============
+
+================ Overvew / #3-Product ========
+*/
+
+#overview {
+    grid-column: 1/3;
+    grid-row: 1;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.h4-green {
+    color: #2e7c8e;
+    font-weight: 700;
+}
+
+#overview h4 {
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+
+/*================ Service List / #3-Product ========*/
+
+#serviceList {
+    grid-column: 3/4;
+    grid-row: 1;
+    margin-top: 130px;
+    justify-content: center;
+    align-items: center;
+}
+
+#serviceList ul{
+    list-style: none;
+}
+
+#serviceList ul li{
+  border-left: solid 12px #2e7c8e;
+  border-bottom: solid 3px rgba(46, 124, 142, 0.4);
+  background: rgba(46, 124, 142, 0.2);
+  line-height: 1.5;
+  padding: 1em;
+  font-weight: 600;
+  margin-bottom: 20px;
+ } 
+
+#serviceList ul li a {
+  color:#2e7c8e;
+}
+
+#serviceList ul li a:hover {
+  color:#fff;
+}
+
+.myGreen {
+    color: #2e7c8e;
+}
+
+/*================ Tax Planning/ #3-Product ========*/
+
+
+
+
+#taxPlanning {
+    grid-column: 1/5;
+    grid-row: 1;
+    margin-top:50px;
+    margin-bottom: 80px;
+}
+
+#taxPlanning h4 {
+    margin-bottom: 0;
+}
+
+.checkmark {
+    list-style-image: url(../images/checkmark.png);
+    list-style-position: inside;
+    padding: 20px 0;
+}
+
+/*================ Consultation-3 / #3-Product ========*/
+
+#consul-3 {
+    grid-column: 5/8;
+    grid-row:1; 
+    border-top: solid 12px #2e7c8e;
+    border-bottom: solid 3px rgba(46, 124, 142, 0.4);
+    background: rgba(46, 124, 142, 0.2);
+    padding: 2rem 2rem 2rem 3rem;
+    margin-top: 110px;
+    margin-bottom: 200px;
+}
+
+#consul-3 h4 {
+    margin: 0;
+    text-align: center;
+}
+
+.buttonWrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+   
+.buttton  {
+    margin: 10px;
+}
+
+
+
+/*
+=============== #4page ===============
+
+================ Application/ #4-Client Portal ========
+*/
+
+#application {
+    grid-column: 1/4;
+    grid-row: 1;
+}
+
+#application, #FAQ, #recent {  
+    background-color: rgba(46, 124, 142, 0.15);
+    border-bottom : solid 3px rgba(46, 124, 142, 0.4);
+    border-right: solid 3px rgba(46, 124, 142, 0.4);
+
+    margin-right: 15px;
+    padding: 1.5rem 0 2rem 2rem;
+}
+
+#application h4, #FAQ h4, #recent h4 {
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+#application h6, #FAQ h6{
+    font-weight: 400;
+    margin: 0 0 1rem;
+}
+
+#application img {
+    width: 100px;
+    margin-top: 30px;
+}
+
+#application p {
+    display: inline-block;
+    color:#18414b;
+}
+
+#application a {
+    color:#18414b;
+}
+
+#application a:hover {
+    background-color: #77f2e8;
+    color:#fff;
+}
+
+#application .calculator img {
+    width: 65px;
+    margin: 0 10px 0 10p;
+    padding-right: 58px;
+    padding-left: 15px;
+}
+
+#application .file img {
+    padding-right: 35px
+}
+
+#application .calender img {
+    padding-right: 35px;
+}
+
+.my-small {
+    font-size: 0.8em ;
+}
+
+hr {
+    border: 1px solid #9f9f9f ;
+    width:90%;
+    margin-right: 3rem;
+    margin-left: 0;
+    
+}
+
+/*========== FAQ / #4-Client Portal ========*/
+#FAQ {
+    grid-column: 4/8;
+    grid-row: 1;
+    margin-left: 15px;
+}
+
+#FAQ ul {
+    padding-top: 20px;
+}
+
+#FAQ li{
+    padding: 5px 0;
+    line-height: 3rem;
+}
+
+#FAQ ul a:hover {
+    background-color: #77f2e8;
+    color:#fff;   
+}
+
+
+#FAQ ul i.fas:hover{
+    color:#fff;
+}
+
+/*================ Recent Activity / #4-Client Portal ========*/
+#recent {
+    grid-column: 1/8;
+    grid-row: 2; 
+    margin-top: 30px;
+    margin-bottom: 80px;
+    padding-left: 70px;
+}
+ 
+#recent h4 {
+    margin-bottom: 30px;
+}
+
+#recent span {
+    color: var(--primary);
+    font-size: 1.2rem;
+}
+
+
+.question {
+    text-align: center;
+    margin-bottom: 80px;
+}
+  
+.question p {
+    margin-bottom: 20px;    
+    }
+
+
+#recent span:hover {
+    background-color: #77f2e8;
+    color:#fff;   
+}
+
+
+/*------ humberger menu -----*/
+
+nav label, #hamburger {
+  display: none;
+}
+
+/*=============== Media Qurry ===============*/
+/*
+ desktop styles 
+@media screen and (min-width: 1200px){
+html{
+    font-size: 20px;
+}
+*/
+ 
+
+/* large tablet & laptop styles */
+@media screen and (max-width: 1002px){
+/*
+html{
+    font-size: 20px;
+  }   
+    
+*/
+.nested {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 30px;
+	grid-auto-rows: minmax(150px, auto);
+}   
+#policy h2{
+    line-height:2rem;
+}
+#policy p {
+     margin: 0 0 1rem 0;   
+}
+h1 {
+font-size:1.2rem;   
+    }   
+}
+
+    
+    
+/* small tablet styles */
+@media screen and (max-width: 650px){
+html{
+    font-size: 16px;
+  }
+
+h1 {
+    font-size:1em;
+    flex-wrap: wrap;
+    }
+    
+    
+.overviewWrapper{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap:50px;
+}    
+
+#overview {
+    grid-column: 1/2;
+    grid-row: 1;    
+    }
+#serviceList
+    {
+    grid-column: 1/2;
+    grid-row: 2;    
+    }
+
+.planningWrapper{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap:50px;
+}    
+
+#taxPlanning, #application {
+    grid-column: 1/2;
+    grid-row: 1;    
+    }
+#FAQ,#consul-3
+    {
+    grid-column: 1/2;
+    grid-row: 2;    
+    }
+ #recent {
+    grid-column: 1/2;
+    grid-row: 3;    
+    }
+
+
+/* Show Hamburger */
+nav ul {
+    display: none;  
+  }   
+    
+nav label {
+    display: inline-block;
+    color: #fff;
+    background: #2e7c8e;
+    font-style: normal;
+    font-size: 1.2em;
+    padding: 10px;
+  }
+
+nav label:hover{
+     background-color: #77f2e8 ; 
+}
+    
+nav {
+    text-align: right;
+}  
+    
+  /* Break down menu items into vertical */
+nav ul li {
+    display: block;
+  }
+nav ul li {
+    border-top: 1px solid #333;
+  }
+
+  /* Toggle show/hide menu on checkbox click */
+
+nav input:checked ~ ul {
+    display: block;
+  }     
+}
+
+
+
+
+
+/* mobile styles */
+    @media screen and (max-width: 550px){
+html{
+    font-size: 16px;
+  }
+
+.nested {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 30px;
+	grid-auto-rows: minmax(150px, auto);
+} 
+        
+footer ul {
+     margin: 0 auto;       
+} 
+}
+
+

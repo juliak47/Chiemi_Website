@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 518.67 521.9">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <rect x="10.44" y="12.21" width="500" height="501" style="fill: #f9f4eb"/>
+      <g>
+        <g>
+          <path d="M175,310.23H123.32c-8.95,0-16.27-7-16.27-15.6V88c0-8.58,7.32-15.59,16.27-15.59H175c8.95,0,16.27,7,16.27,15.59V294.63c0,8.58-7.32,15.6-16.27,15.6" style="fill: #315293"/>
+          <path d="M175,310.23H123.32c-8.95,0-16.27-7-16.27-15.6V88c0-8.58,7.32-15.59,16.27-15.59H175c8.95,0,16.27,7,16.27,15.59V294.63C191.3,303.21,184,310.23,175,310.23Z" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M259.49,309.58H207.78c-8.95,0-16.27-7-16.27-15.6V87.32c0-8.58,7.32-15.59,16.27-15.59h51.71c8.95,0,16.27,7,16.27,15.59V294c0,8.58-7.32,15.6-16.27,15.6" style="fill: #315293"/>
+          <path d="M259.49,309.58H207.78c-8.95,0-16.27-7-16.27-15.6V87.32c0-8.58,7.32-15.59,16.27-15.59h51.71c8.95,0,16.27,7,16.27,15.59V294C275.76,302.56,268.44,309.58,259.49,309.58Z" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+          <path d="M421.63,296.27,372.58,312c-8.49,2.71-17.75-1.73-20.58-9.86l-68.25-196A15.51,15.51,0,0,1,294,86.33l49-15.68c8.49-2.72,17.75,1.72,20.58,9.86l68.25,196a15.5,15.5,0,0,1-10.29,19.73" style="fill: #315293"/>
+          <path d="M421.63,296.27,372.58,312c-8.49,2.71-17.75-1.73-20.58-9.86l-68.25-196A15.51,15.51,0,0,1,294,86.33l49-15.68c8.49-2.72,17.75,1.72,20.58,9.86l68.25,196A15.5,15.5,0,0,1,421.63,296.27Z" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.63700008392334px"/>
+        </g>
+        <text transform="translate(131.46 243.85) scale(1.04 1)" style="font-size: 77.98365020751953px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">I</text>
+        <text transform="translate(204.36 243.85) scale(1.04 1)" style="font-size: 77.98365020751953px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">R</text>
+        <text transform="matrix(0.99, -0.32, 0.33, 0.94, 344.5, 248.36)" style="font-size: 78.32877349853516px;fill: #fff;font-family: Baskerville-Bold, Baskerville;font-weight: 700">C</text>
+        <rect x="127.48" y="116.57" width="43.4" height="11.7" style="fill: #df225a"/>
+        <rect x="127.48" y="137.05" width="43.4" height="11.7" style="fill: #df225a"/>
+        <rect x="211.94" y="116.57" width="43.4" height="11.7" style="fill: #df225a"/>
+        <rect x="211.94" y="137.05" width="43.4" height="11.7" style="fill: #df225a"/>
+        <polygon points="357.54 125.46 317.06 140.45 312.66 129.54 353.14 114.55 357.54 125.46" style="fill: #df225a"/>
+        <polygon points="365.24 144.57 324.76 159.56 320.37 148.65 360.84 133.66 365.24 144.57" style="fill: #df225a"/>
+      </g>
+      <text style="font-size: 62px;fill: #8d1635;font-family: Baskerville-Bold, Baskerville;font-weight: 700"><tspan x="78.31" y="396.13">Indian R</tspan><tspan x="334.06" y="396.13" style="letter-spacing: -0.009765625em">i</tspan><tspan x="354.13" y="396.13" style="letter-spacing: -0.01904296875em">v</tspan><tspan x="384.58" y="396.13">er</tspan><tspan style="font-size: 50px"><tspan x="79.66" y="456.13">County Libra</tspan><tspan x="394.23" y="456.13" style="letter-spacing: 0.009765625em">r</tspan><tspan x="418.67" y="456.13">y</tspan></tspan></text>
+      <rect x="10" y="10" width="498.67" height="501.9" style="fill: none;stroke: #0a213f;stroke-miterlimit: 10;stroke-width: 20px"/>
+      <rect x="35.83" y="39.63" width="445.29" height="447.17" style="fill: none;stroke: #0a213f;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+  </g>
+</svg>

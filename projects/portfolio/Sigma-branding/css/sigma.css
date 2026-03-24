@@ -1,0 +1,615 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap');
+	
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('../font/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('../font/kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*--------------  GENERAL STYLES ------------*/
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+    background-color: #e9ebed;
+}
+
+body {
+	line-height: 1;
+	font: 18px /26px 'Open Sans', sans-serif;
+	color: #141414;
+	background-color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+	max-width: 1400px;
+	width: 85%;
+	margin: 0 auto;
+/*    background: red;*/
+}
+
+
+ol, ul {
+	list-style: none;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h1{
+    
+}
+
+h2{
+font-size: 1.6em; 
+margin-top: 120px;
+margin-bottom: 30px;
+}
+
+
+h3{
+
+}
+
+h4{
+ 
+}
+
+
+/*-----------------  Header ---------------*/
+header {
+	background-color: #000;
+	width: 100%;
+	color: #fff;
+	padding: 20px 0 0;
+    min-height: 80px;
+
+}
+
+.return a {
+    color:white;
+    font-size: 1.4rem;
+    float:left;
+    text-decoration: none;
+}
+
+#header-logo img{
+    float: right;
+    width: 15%;
+    margin-bottom: 10px;
+}
+
+
+/*----------------- Branding ---------------*/
+
+.realSite {
+margin-top: 70px;
+margin-bottom: 10s0px;
+}
+
+
+.realSite a {
+  text-decoration:none;
+}
+
+.buttonBorder {	  
+  width: 65%;
+  border:double 15px #EE8383; 
+  padding: 1px 20px;
+  border-radius: 10px;
+}
+
+ .buttonBorder a {
+  color: #EE8383; 
+}
+
+ .buttonBorder a:hover {
+  color: #FFF; 
+}
+
+.buttonBorder:hover {
+  background: rgba(224, 136, 134, 0.5);
+  border: 4px solid #fff;  
+  box-shadow: 0px 0px 0px 5px #EE8383;
+  padding: 7px 23px;
+}
+
+
+
+/*----------------- Creative Brief ---------------*/
+
+
+.grid-2col{
+    display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-auto-rows: minmax(150px, auto);
+	grid-column-gap: 15px;
+}
+
+.cb {
+    background-image: url(../images/audit.png);
+/*    background-image: url(../images/team.png);*/
+    background-position: right center;
+    background-size: cover;
+    padding: 40px 0; 
+}
+
+.whitebg {
+    background:rgba(256, 256, 256, 0.7);
+    padding: 10px;
+    width: 60%;
+}
+
+/*----------------- company brand ---------------*/
+
+.companyBrand strong {
+    font-size: 1.6em;
+    color: #b9bacc;
+    font-weight: 800;
+    line-height: 2em;
+}
+
+.companyBrand {
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+.concept {
+    display: flex; 
+    justify-content:space-between;
+}
+
+
+/*
+.concept img:nth-child(1) {
+        margin-right: 10%;
+}
+*/
+
+.concept img {
+    width: 45%;
+}
+
+/*
+.concept img {
+    transition: transform .2s;
+    cursor: pointer;
+    transform-origin: center ; 
+}
+
+.concept img:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+*/
+
+ 
+/*----------------- logo ---------------*/
+
+.logoStudy {
+    display: flex;
+    margin-top: 50px;
+}
+
+.logoStudy img {
+    width: 25%;
+    margin-right: 5%;
+}
+.logoStudy img:nth-child(3) {
+    margin-right: 0;
+}
+    
+/*----------------- persona ---------------*/
+
+
+.persona {
+    margin:  20px 0 20px ;
+    width: 30%;
+    transition: transform .2s;
+    cursor: pointer;   
+}
+
+.persona:hover{
+    margin-top: 20px;
+    transform: scale(1.6);  
+}
+
+.persona-1 {
+    transform-origin: left;
+}
+
+.persona-2 {
+    transform-origin: left;
+    margin-right:20%;
+}
+
+/*----------------- site map ---------------*/
+
+.sitemap {
+    margin:  20px 0 20px 17%;
+    width: 35%;
+    transition: transform .2s;
+    cursor: pointer;
+    transform-origin: left ; 
+}
+
+.sitemap:hover{
+    margin-top: 20px;
+    transform: scale(1.6);  
+}
+
+.run{
+    background-image: url(../images/tax.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 25%; 
+}
+
+/*----------------- Mockup---------------*/
+
+.mockup {
+    margin:20px 0 20px 12%;
+    width:40%;
+    transition: transform .2s;
+    cursor: pointer;
+    transform-origin: left ; 
+}
+
+.mockup:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+
+
+
+/*----------------- font study ---------------*/
+
+.font{
+    width: 27%;
+    margin-right: 5%;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+.font:hover{
+    margin-top: 20px;
+    transform: scale(1.6);  
+}
+
+.font_left {
+    transform-origin: left top; 
+}
+
+
+/*----------------- color study ---------------*/
+
+.color{
+    width: 29%;
+    margin-right: 2%;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+.color:hover{
+    margin-top: 20px;
+    transform: scale(1.6);  
+}
+
+.color_left {
+    transform-origin: left top; 
+}
+
+.colorStudy h2 {
+    margin-top: 150px;
+}
+
+
+/*-------------- business card ---------------*/
+
+.bCard {
+/*    margin:  20px 0 20px ;*/
+    width: 30%;
+    transition: transform .2s;
+    cursor: pointer;   
+}
+
+.bCard:hover{
+/*    margin-top: 20px;*/
+    transform: scale(1.6);  
+}
+
+.bCard-1 {
+    transform-origin: left top;
+    margin-right:20%;
+}
+
+.bCard-2 {
+    transform-origin: left top;   
+}
+
+/*-------------- Letterhead / Envelope ---------------*/
+
+.letterH {
+    margin:  20px 0 20px ;
+    transition: transform .2s;
+    cursor: pointer;  
+}
+
+.letterH:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+
+.letterH-1 {
+    transform-origin: left;
+    margin-right:4%;
+    width: 60%;
+}
+
+.letterH-2 {
+    transform-origin: left; 
+    margin-right:4%;
+    width: 28%;
+}
+
+
+/*-------------- folder ---------------*/
+
+.folder {
+/*    margin:  20px 0 20px ;*/
+    transition: transform .2s;
+    cursor: pointer;  
+}
+
+.folder:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+
+.folder-1 {
+    transform-origin: left;
+    margin-right:4%;
+    width: 30%;
+}
+
+.folder-2 {
+    transform-origin: center; 
+    margin-right:4%;
+    width: 30%;
+}
+
+.folder-3 {
+    transform-origin: right; 
+    width: 30%;
+    padding-bottom: 20px;
+}
+
+/*------------- eSignature / Promotional Email ---------------*/
+
+/*
+.mail-sig {
+    display: flex;
+    justify-content: space-between;
+}
+*/
+
+.mail {
+/*    margin:  20px 0 20px ;*/
+    margin-top: -50px;
+    transition: transform .2s;
+    cursor: pointer;  
+}
+
+.mail:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+
+.mail-1 {
+    transform-origin: left;
+    margin-right:12%;
+    width: 40%;
+}
+
+.mail-2 {
+    transform-origin: left; 
+    width: 25%;
+    border: solid 1px rgba(142, 162, 175, 0.5);
+}
+
+/*-------------- Direct mail ---------------*/
+
+.dmail {
+    margin:  20px 0 20px ;
+    transition: transform .2s;
+    cursor: pointer;  
+}
+
+.dmail:hover{
+    margin-top: 20px;
+    transform: scale(1.3);  
+}
+
+.dmail-1 {
+    transform-origin: left;
+    margin-right:12%;
+    width: 30%;
+}
+
+.dmail-2 {
+    transform-origin: left; 
+    width: 30%;
+}
+
+/*-----------------  user flow ---------------*/
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title p {
+    width:15%;
+    text-align: center;
+}
+
+
+.flow {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.flow img {
+    width: 15%;
+    transition: transform .2s;
+    cursor: pointer;
+    transform-origin: center ; 
+}
+
+.flow img:hover {
+    margin-top: 20px;
+    transform: scale(1.5);  
+}
+
+.flow p {
+    display: block;
+    margin-top: 100px;;
+}
+
+.my-green {
+    color: #EE8383;
+}
+
+
+/*-----------------  footer ---------------*/
+.realSite2 {
+    margin-top: 160px;
+    margin-bottom: 50px;
+}
+
+
+footer {
+	background-color: #363636;
+	width: 100%;
+	padding: 30px 0;
+	color: #fff;
+	text-align: left;
+}
+
+footer p {
+	margin-left: 30px;
+}
+
+/*-----------------  back to top ---------------*/
+
+.back-to-top {
+    float: right;
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 10%;
+/*    transition: transform .2s;*/
+    cursor: pointer;
+}
+
+.back-to-top:before {
+    content: url(../img/sprites.png);
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    margin-left: -40px;
+}
+
+.no-js .back-to-top {
+    display: none;
+}
+
+/*------media query----------*/
+
+@media screen and (max-width: 1610px) {
+.gallery li {
+	width: 25%;
+/*	margin: 0 auto;*/
+	}
+}	
+	
+@media screen and (max-width: 1200px) {
+	
+.gallery li {
+	width: 25%;
+	}
+.swiper-slide {
+	height: 550px;
+	}
+}
+
+@media screen and (max-width: 960px) {
+	
+.gallery li {
+	width: 33%;
+	}
+.swiper-slide {
+	height: 450px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	
+.gallery li {
+	width: 50%;
+	}
+.swiper-slide {
+	height: 400px;
+	padding-right: 20px;
+	padding-left: 20px;
+	}	
+.title p {
+	width: 60%;	
+	}	
+
+}
+
+
+
+@media screen and (max-width: 550px) {	
+	
+.gallery li {
+	width: 100%;
+	}
+}
+
+.gallery h1, .slider h1 {
+	line-height: 80px;
+}
+
+/*
+.sns {
+	float: none;
+}
+*/
+
+@media screen and (max-width: 320px) {	
+	
+.gallery li {
+	width: 100%;
+	}
+}
+
+footer p {
+	width: 70%;
+}
+
+
+

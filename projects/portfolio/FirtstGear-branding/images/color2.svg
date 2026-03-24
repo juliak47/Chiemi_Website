@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 384 184">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="13.55" y="11.7" width="363.22" height="163.2" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="384" height="184" style="fill: #fff"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M60.29,147.34A46.24,46.24,0,1,0,14.05,101.1a46.24,46.24,0,0,0,46.24,46.24" style="fill: #1d1d1b"/>
+        <circle cx="60.29" cy="101.1" r="46.24" style="fill: none;stroke: #a1c639"/>
+      </g>
+      <text transform="translate(131.36 31.9)" style="font-size: 11.199999809265137px;fill: #1d1d1b;font-family: AvenirNext-Medium, Avenir Next;font-weight: 500">2nd O<tspan x="32.6" y="0" style="letter-spacing: -0.005013602205916851em">P</tspan><tspan x="39.21" y="0">TION</tspan></text>
+      <line x1="19.69" y1="43.5" x2="305.29" y2="43.5" style="fill: none;stroke: #3a4149;stroke-width: 2.4000000953674316px"/>
+      <g style="clip-path: url(#clip-path)">
+        <path d="M162.49,141.44c23.16,0,41.92-18.06,41.92-40.34s-18.76-40.34-41.92-40.34-41.92,18.06-41.92,40.34,18.77,40.34,41.92,40.34" style="fill: #a1c639"/>
+        <path d="M253.15,141.26a35.91,35.91,0,1,0-35.91-35.91,35.91,35.91,0,0,0,35.91,35.91" style="fill: #f2ce6a"/>
+        <path d="M330.77,139.48c13.67,0,24.76-12.43,24.76-27.75S344.44,84,330.77,84,306,96.41,306,111.73s11.09,27.75,24.77,27.75" style="fill: #2b5da9"/>
+      </g>
+      <text transform="translate(32.75 168.21)" style="font-size: 14px;fill: #1d1d1b;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">#000000</text>
+      <text transform="translate(131.37 168.21)" style="font-size: 14px;fill: #1d1d1b;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">#a1c639</text>
+      <text transform="translate(223.36 168.21)" style="font-size: 14px;fill: #1d1d1b;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">#f2ce6a</text>
+      <text transform="translate(299.53 168.21)" style="font-size: 14px;fill: #1d1d1b;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">#2b5da9</text>
+    </g>
+  </g>
+</svg>

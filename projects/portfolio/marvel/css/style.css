@@ -1,0 +1,958 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700|Open+Sans:400,600,700,800|Kaushan+Script');
+
+/*----------- RESET -------*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/*--------------  GENERAL STYLES ------------*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	line-height: 1;
+	font: 16px /18px 'Open Sans', sans-serif;
+	color: #141414;
+	background-color: #e9ebed;
+}
+
+.container {
+	max-width: 1400px;
+	width: 85%;
+	margin: 0 auto;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/*-----------------  Header & Logo ---------------*/
+
+header {
+	background-color: #000;
+	width: 100%;
+}
+
+.pc-logo {
+	margin: 0 auto;
+	max-width: 500px;
+	width: 40%;
+}
+
+.pc-logo img{
+	width: 100%;
+}
+
+.pc-logo img:hover {
+	background-color: #365ea3;
+	opacity: 0.6
+}
+
+hr {
+	width: 58%;
+    border: 2px solid #2cb5a6;
+	margin: 0 auto;
+}
+
+
+/*----------------- PC Navigation ----------------*/
+
+.topnav {
+  background-color: #000;
+  width: 58%;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.topnav_wrapper {
+	margin: 0 auto;
+	display: inline-block;
+	
+}
+
+.topnav a {
+  display: inline-block;
+  color: #c4eae6;
+  text-align: center;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+.topnav a:hover {
+  background-color: #2cb5a6;
+  color: black;
+}
+
+/*
+.active {
+  background-color: #365ea3;
+  color: white;
+}
+*/
+
+/* Hide responsive navigation on desktop */
+.mobile-show {
+	display: none;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+.mobile_nav a:hover {
+	background-color: #365ea3;	
+}
+
+/*----------------- Hero ----------------*/
+
+.heros {
+	float: left;
+	width: 50%;
+	height: 500px;
+	background-size: cover;
+ 	Background-repeat: no-repeat;
+ 	Background—position: center;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.left {
+	width:50%;
+    height:500px;
+	background: linear-gradient(to bottom, rgba(26, 75, 97, .4), rgba(26, 75, 97, .2),rgba(26, 75, 97, .8)), url("../imgs/Captain-Marvel-hero.jpg");
+	background-position: top;
+}
+
+.right {
+	background-image: url("../imgs/eating movie2.jpg");
+}
+
+.right img {
+	width: 100%;
+}
+
+.left img {
+	width: 100%;
+}
+
+.left h2 {
+	font-size: 2.5rem;
+	margin-top: 340px;
+	text-align: center;
+}
+
+.left h3 {
+	font-size: 1.5rem;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.left a {
+	width: 11rem;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.right h2 {
+	font-size: 2rem;
+	margin-top: 330px;
+	line-height: 1.5rem;
+	text-align: center;
+}
+
+.right a {
+	width: 11rem;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.2rem;
+}
+
+a.button  {
+	border: 2px solid #fff;
+	background-color: #365ea3;
+	color: #fff;
+	padding: 0.6rem 1.5rem;
+	text-transform: uppercase;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.3rem;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 1.7rem;
+}
+
+a.button:hover {
+	background-color: #e24444;
+	color: #fff;
+}
+
+/*------ -------- Now Showing -----------*/
+
+.title {
+	background-image:url("../imgs/nightg-sky5.jpg");
+	height: 70px;
+	width: 100%;
+	background-size:contain;
+ 	background-repeat:repeat-x;
+ 	Background—position: center;
+	margin-top: 60px;
+}
+
+.title h2{
+	color: #c4eae6;
+	font-size: 2.5rem;
+	padding-top: 25px;	
+}
+
+.blue {
+	background: #b5c2d8;
+	width: 100%;
+}
+
+ 
+.card {
+	float: left;
+	background-color: #fff;
+	width: 21%;
+	text-align: center;
+	color: #9172439;
+	font-size: 1.2rem;
+	margin: 2rem 5% 2rem 0;
+	padding-top: 1.5rem;
+}
+
+.card:last-child {
+	margin-right: 0;
+}
+
+.card img {
+	width: 100%;
+	padding: 1rem 0 1.5rem;
+}
+
+.card:hover {
+	background-color: #c4eae6;
+}
+
+.card a {
+	margin-bottom: 1rem;
+}
+
+/*---------- wine & dining -----------*/
+
+.dining {
+	width: 100%;
+	padding: 20%;
+	background-image:url("../imgs/dinner.jpg");
+	height: 500px;
+	background-size: cover;
+ 	Background-repeat: no-repeat;
+ 	Background—position: center;
+	color: #fff;
+    text-align: center;
+}
+
+.dining h2{
+/*	margin-top: 20px;*/
+	font-size: 3rem;
+	line-height: 2em;
+	text-transform: uppercase;
+}
+
+.dining h3{
+	font-size: 1.5rem;
+	line-height: 1em;
+}
+
+.finestcooking {
+    width: 30%;
+}
+
+.text_container {
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+
+.dark {
+	width: 100%;
+	padding: 0 30px 20px;
+	background: linear-gradient(to bottom, rgba(26, 75, 97, .4), rgba(26, 75, 97, .2),rgba(26, 75, 97, .8));
+	border-radius: 10px;
+}
+
+.dark a {
+	width: 11rem;
+	display: block;
+	margin-left: 14rem;
+}
+
+/*--------------- Mailing list ---------------*/
+
+.mailing_list {
+	width: 100%;
+	background-color: #e9ebed;
+	padding-bottom: 50px;
+}	
+
+.join_list {
+	float:left;
+	width: 70%;
+	margin-right: 10%;
+	fotn-size: 17pt;
+	font-weight: 700;
+}
+
+.join_list p {
+	margin-top: 41px;
+	margin-bottom: 17px;
+	margin-left: 58px;
+	font-size: 17px;
+  	font-weight: 600;
+  	color: #575757;
+}
+
+.mailing_list input {
+  width: 50%;
+	max-width: 580px;
+  height: 36px;
+  padding-left: 8px;
+  margin-left: 58px;
+	background-color: #fff;
+}
+
+.mailing_list button {
+	width: 100px;
+}
+
+
+.mailing_list button {
+  background: #365ea3;
+  border: 2px solid #fff;
+  padding: 11px 17px;
+  margin-left: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff; 
+}
+
+.mailing_list button:hover {
+  background: #e24444;
+  color: #fff;
+}
+
+.sns {
+  float: left;
+  margin-top: 90px;
+}
+
+.sns img {
+	width: 30px;
+	padding-left: 5px;
+}
+
+
+/*----------------- footer----------------*/
+
+footer {
+	background-color: #000;
+	width: 100%;
+	color: #fff;
+}
+
+.textbox_wrapper {
+	display: inline-block;
+	width: 60%;	
+	float:left;
+	margin: 0 atuo;
+	padding-top: 30px;
+}
+
+.textBox {
+	width:  25%;
+	float: left;
+	line-height: 2rem;
+}
+
+.address {
+	width: 40%;
+	float: left;
+	text-align: center;
+	padding-top: 1rem;
+	padding-bottom: 2rem;
+}
+
+.address img {
+	width:40%;
+}
+
+.address h5 {
+	font-size: 1rem;
+	line-height: 1rem;
+}
+
+.white hr {
+	width: 100%;
+	border: 2px solid #fff;
+}
+
+.copyRight {
+	background-color: #000;
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	font-size: 11px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer a {
+	text-decoration: none;
+	color: #fff;
+}
+
+footer a:hover {
+	text-decoration: none;
+  	color: #2cb5a6; 
+}
+
+.pc-logo2 img {
+	width: 60%;
+}
+
+.pc-logo2 img:hover {
+	background-color: #365ea3;
+	opacity: 0.8;
+}
+
+.mobile-logo2 img {
+	width: 60%;
+}
+
+.mobile-logo2 img:hover {
+	background-color: #365ea3;
+	opacity: 0.8;
+}
+
+/*----------- Ticket Page --------------*/
+
+/*-------------- Title -----------------*/
+
+.captain_marvel h2 {
+	font-size: 2.5em;
+	color: #365ea3;
+	font-weight: 700;
+	padding: 50px 0 50px 60px;
+	}
+
+/*----------- Time schedule ------------*/
+
+.schedule{
+	width: 40%;
+	float: left;
+	padding-left: 50px;
+}
+
+.schedule h4 {
+	font-size: 1.5em;
+	color: #575757;
+	font-weight: 500;
+	padding: 20px 0 6px;
+	line-height: 1.5rem;
+	}
+
+.schedule span {
+	font-size: 2rem;
+	font-weight: 800;
+	color: #fff;
+	background: rgba(255, 255, 255, .4);
+}
+
+a.calender {
+	padding-right: 0;
+	background-color: #22406c;
+}
+
+#datepicker {
+	border: 2px solid #fff;
+/*	background-color: #22406c;*/
+	background-color: #a6b4ce;
+	color: #fff;
+	display: inline-block;
+	font-size: 1.3rem;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 1.7rem;
+	width : 70%;
+	margin-left: 0;
+	height: 47px;
+}
+
+.schedule input::placeholder {
+	color: #001c58;
+	font-size: 1.5rem;
+	font-weight: 600;
+	opacity: 1;
+	padding-left: 10px;
+}
+
+#datepicker:hover {
+	background-color: #e24444;
+}
+
+.schedule h3 {
+	font-size: 1.4rem;
+}
+
+.schedule span {
+	color:#575757;
+	font-size: 1.4rem;
+	font-weight: 600;
+	line-height: 1.8rem; 
+}
+
+/*-------------- Trailer ---------------*/
+
+.trailer_coloumns {
+	float: left;
+	width: 60%;
+	position: relative; 
+	padding-bottom: 20px;
+}
+
+.trailer { 
+	width: 100%;
+}
+
+.trailer video, .trailer object, .responsive_video embed { 
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.trailer p {
+	text-align: center;
+}
+
+
+
+.trailer iframe {
+	width: 100%;
+	margin-bottom: 2rem;
+}
+
+.trailer_info p {
+	font-size: 1.5rem;
+	color: #575757;
+	line-height: 2.2rem;
+	width: 80%;
+}
+
+.trailer_info span {
+	font-weight: 700;
+}
+
+a.mint {
+	margin-top: 70px;
+	margin-bottom: 30px;
+	border: none;
+	background-color: #2cb5a6;
+	font-size: 30px;
+	padding: 15px 30px;
+}
+
+a.mint:hover {
+	background-color: #e24444;
+	color: #fff;
+}
+
+hr.mint_hr {
+	width: 90%;
+	border: solid 4px #365ea3;
+	margin: 20px auto;	
+}
+
+
+/*-------------- Food Order ---------------*/
+
+.food_order h3 {
+	font-size: 2.5rem;
+	color: #365ea3;
+	font-weight: 700;
+	padding: 50px 0 ;
+	line-height: 2.5rem;
+}
+
+.food_order span {
+	float: right;
+	font-size: 1.3rem;
+	color: #365ea3;
+	font-weight: 400;
+	margin-right: 20px;
+}
+
+.food_order a {
+	text-decoration: none;
+}
+
+.food_order span a:hover{
+	background-color: #365ea3;
+	color:#fff;
+	padding: 5px;
+}
+
+.prefixed {
+	float: left;
+	width: 65%;
+}
+
+.prefixed a {
+	display: inline-block;
+	width: calc(25% - 5px);
+}
+
+.prefixed img { 
+	width: 100%;
+}
+
+.prefixed img:hover {
+	border: 5px solid #365ea3;
+}
+	
+.food_info img {
+	height: 2rem;
+}
+
+.food_info {
+	float: left;
+}
+
+
+.food_info li {
+	font-size: 1.3rem;	
+	color: #575757;
+	line-height: 3rem;
+	margin-right: 0;
+}
+
+.food_info p {
+	font-size: 1.6rem;	
+	color: #575757;	
+	font-weight: 600;
+	margin-top: 3rem;
+}
+
+a.mint_2 {
+	margin-top: 50px;
+}
+
+
+/*------------ media query -------------*/
+
+@media screen and (max-width: 1200px) {
+	
+.topnav {
+	width: 72%;
+}
+
+hr {
+	width: 72%;
+}}
+	
+@media screen and (max-width: 960px) {
+	
+.topnav {
+	width: 92%;
+}
+
+hr {
+	width: 92%;
+}
+	
+.prefixed {
+	width: 60%;
+	float: left;
+	margin-bottom: 20px;
+}
+	
+.prefixed a {
+	width: 45%;
+}	
+	
+.textbox_wrapper {
+	width: 100%;
+	display: block;
+}
+
+.address {
+	width: 100%;
+}
+	
+.pc-logo2 {
+	width: 40%;
+	margin: 0 auto;
+}}
+
+
+@media screen and (max-width: 768px) {
+	
+.mobile_hide {
+	display: none;
+}
+	
+.mobile-show {
+	display: block;
+}
+	
+.mobile-logo {
+	float: left;
+	width: 45%;
+	max-width: 200px;
+	margin: 25px;
+}
+	
+.mobile-logo2 {
+	float: left;
+	width: 60%;
+	max-width: 200px;
+	margin: 25px;
+	margin-left: 10%;
+}
+	
+.mobile-logo img {
+	width: 100%;
+}
+	
+.topnav {
+	float: right;
+	width: 33%;
+}
+	
+.topnav a {display: none;}
+	
+.topnav a.icon {
+   	display: block;
+    position: absolute;
+	right: 23px;
+	top: 20px;
+}
+	
+.topnav.responsive {
+	position: absolute;
+	right: 23px;
+	top: 20px;
+}
+	
+.topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+	
+.topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left; 
+}
+	
+.topnav .icon {
+	font-size :40px;
+}
+
+.card {
+	width: 45%;
+	margin-right: 0;
+}
+	
+.card:nth-of-type(even) {
+	margin-left: 10%;
+}
+	
+.pc-logo2 img {
+	width: 20%;
+}
+		
+.heros {
+	width: 100%;
+	float: none;
+	height: inherit;
+	margin: 0;
+	padding: 5rem;
+}
+	
+.right {
+	text-align: center;
+}
+	
+.schedule  {
+	width: 100%;
+	float: none;
+	height: inherit;
+	margin: 0;
+	padding: 0 2rem 0 ;
+}
+	
+.trailer_coloumns  {
+	width: 100%;
+	float: none;
+	height: inherit;
+	margin: 0;
+	padding: 0 2rem 0;
+}
+	
+.prefixed {
+	width: 100%;
+}
+	
+.prefixed a {
+	width: 45%;
+}
+	
+.textbox_wrapper{
+	width: 100%;
+}
+	
+.textBox {
+	width: 50%;
+	text-align: center;
+}
+	
+.join_list {
+	width: 100%;
+}
+	
+.sns {
+	width: 100%;
+	float: none;
+	text-align: center;
+	margin-top: 0;
+}
+	
+.sns img {
+	padding-top: 2rem;
+}
+	
+.mailing_list {
+	padding-bottom: 20px;
+}}
+
+
+@media screen and (max-width: 600px) {
+	
+.mobile-logo {
+	margin: 20px;
+}
+	
+.topnav .icon {
+	font-size :40px;
+}
+	
+.textBox {
+   	width: 50%;
+}}
+
+
+@media screen and (max-width: 480px) {	
+	
+.mobile-logo {
+	margin: 15px;
+}
+	
+body {
+	min-width: 360px;	
+}
+	
+.hero h2 {
+	line-height: 2.5rem;
+}
+	
+.hero h3 {
+	line-height: 2rem;
+}
+	
+.prefixed a {
+	float: none;
+	width: 100%;
+}
+.card {
+	float: none;
+	width: 100%;
+}
+	
+.card:nth-of-type(even) {
+	margin-left: 0;
+}	
+
+.blue {
+	padding-top: 2px;
+	margin-top: 4px;
+}	
+	
+.textbox_wrapper {
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+}
+	
+.prefixed {
+	text-align: center;
+}
+	
+.prefixed a {
+    width: 80%;
+}
+	
+.food_info {
+	padding-left: 15%;
+}
+	
+.captain_marvel h2 {
+	line-height: 2.5rem;
+}}
+
